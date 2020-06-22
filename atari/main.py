@@ -112,12 +112,13 @@ def evaluate(step, policy_net, device, env, n_actions, eps=0.01, num_episode=5):
     
     f = open(env_name+".csv",'a')
     avg_reward = float(sum(e_rewards))/float(num_episode)
+    std = np.array(avg_reward).mean()
     print("The average reward is: %.5f" % (avg_reward,))
     if avg_reward > best_reward:
         print("Best reward, save model to disk!!!")
         torch.save(policy_net.state_dict(), "models/"+env_name+"_"+str(int(avg_reward))+".pth")
         best_reward = avg_reward
-    f.write("%f, %d, %d\n" % (avg_reward, step, num_episode))
+    f.write("%f, %f, %d, %d\n" % (avg_reward, std, step, num_episode))
     f.close()
 
 
@@ -165,4 +166,4 @@ for step in progressive:
         target_net.load_state_dict(policy_net.state_dict())
     
     if step % EVALUATE_FREQ == 0:
-        evaluate(step, policy_net, device, env_raw, n_actions, eps=0.05, num_episode=15)
+        evaluate(step, policy_net, device, env_raw, n_actions, eps=0.05, num_episode=20)
