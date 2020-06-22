@@ -112,7 +112,7 @@ def evaluate(step, policy_net, device, env, n_actions, eps=0.01, num_episode=5):
     
     f = open(env_name+".csv",'a')
     avg_reward = float(sum(e_rewards))/float(num_episode)
-    std = np.array(avg_reward).mean()
+    std = np.array(e_rewards).std()
     print("The average reward is: %.5f" % (avg_reward,))
     if avg_reward > best_reward:
         print("Best reward, save model to disk!!!")
@@ -130,9 +130,9 @@ done = True
 eps = 0
 episode_len = 0
 
-progressive = tqdm(range(NUM_STEPS), total=NUM_STEPS, ncols=50, leave=False, unit='b')
-for step in progressive:
-# for step in range(NUM_STEPS):
+# progressive = tqdm(range(NUM_STEPS), total=NUM_STEPS, ncols=50, leave=False, unit='b')
+# for step in progressive:
+for step in range(NUM_STEPS):
     if done: # life reset
         env.reset()
         sum_reward = 0
