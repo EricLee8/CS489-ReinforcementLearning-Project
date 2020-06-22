@@ -9,7 +9,7 @@ This project requires us to implement two kinds of model-free RL methods, which 
 
 To install the dependencies, run:  
 
-`$ pip install -r requirements.txt'` 
+`$ pip install -r requirements.txt` 
 
 Note that gym[atari], tb-nightly future and mujoco_py can not be install by running the above code, for the first two, run:  
 
