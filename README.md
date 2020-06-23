@@ -5,7 +5,7 @@
 This is the code for the project of CS489: Reinforce Learning.  
 This project requires us to implement two kinds of model-free RL methods, which are value-based RL and policy-based RL. We should choose RL algorithms to solve two benchmark environments: Atari Game and Mujoco Robots, which are discrete space control and continuous space control, respectively.  
 
-## How to Run
+## Usage
 
 To install the dependencies, run:  
 
