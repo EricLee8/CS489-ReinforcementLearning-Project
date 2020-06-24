@@ -14,8 +14,7 @@ def get_rewards_from_file(name):
             i += 1
             info = line.replace(' ','').split(',')
             r = float(info[0])
-            # std = float(info[1]) # 暂时没有加上这个信息
-            std = 5
+            std = float(info[1])
             rewards.append(r)
             stds.append(std)
             steps.append(i)

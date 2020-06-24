@@ -52,6 +52,7 @@ def draw_env(name, i):
     r2 = list(map(lambda x: x[0]+x[1], zip(rewards, stds)))
     plt.fill_between(steps, r1, r2, alpha=0.35)
     plt.plot(steps, rewards, label=real_names[i]+"-SAC")
+    print(name + " Mean std: %.1f" %(np.std(stds)))
 
     f = open("mujoco/results/"+name+"_ppo.json", "r")
     loadDict = json.load(f)
@@ -84,8 +85,8 @@ def draw_env_all():
 if __name__ == "__main__":
     if not os.path.exists("mujoco_pics"):
         os.makedirs("mujoco_pics")
-    draw_env_all()
-    plt.clf()
+    # draw_env_all()
+    # plt.clf()
     for i in range(4):
         draw_env(names[i], i)
         plt.clf()
