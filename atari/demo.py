@@ -63,8 +63,8 @@ def demo(num_episode=1):
         e_rewards.append(e_reward)
     avg_reward = float(sum(e_rewards))/float(num_episode)
     env.close()
-    print("Average reward of "+args.env_name+"is, %.1f"%(avg_reward))
-    print("Average std of "+args.env_name+"is, %.1f"%(np.std(e_rewards)))
+    print("Average reward of "+args.env_name+" is %.1f"%(avg_reward))
+    print("Average std of "+args.env_name+" is %.1f"%(np.std(e_rewards)))
 
 
 if __name__ == "__main__":

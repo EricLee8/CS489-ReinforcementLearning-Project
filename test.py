@@ -12,8 +12,8 @@ assert args.env_name in ["BreakoutNoFrameskip-v4", "PongNoFrameskip-v4", \
 
 if args.env_name in ["BreakoutNoFrameskip-v4", "PongNoFrameskip-v4", "BoxingNoFrameskip-v4"]:
     os.chdir("atari")
-    os.system("python demo.py --env_name " + args.env_name + " --num_episode " + args.num_episode)
+    os.system("python demo.py --env_name " + args.env_name + " --num_episode " + str(args.num_episode))
 
 else:
     os.chdir("mujoco")
-    os.system("python demo.py --env_name " + args.env_name + " --num_episode " + args.num_episode)
+    os.system("python demo.py --env_name " + args.env_name + " --num_episode " + str(args.num_episode))

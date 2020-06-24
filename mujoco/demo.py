@@ -51,8 +51,8 @@ def testing():
             episode_reward += reward
             state = next_state
         e_rewrads.append(episode_reward)
-    print("Average reward of " + args.env_name + "is %.1f"%(np.mean(e_rewrads)))
-    print("Average std of " + args.env_name + "is %.1f"%(np.std(e_rewrads)))
+    print("Average reward of " + args.env_name + " is %.1f"%(np.mean(e_rewrads)))
+    print("Average std of " + args.env_name + " is %.1f"%(np.std(e_rewrads)))
 
 
 if __name__ == '__main__':
