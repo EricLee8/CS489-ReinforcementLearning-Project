@@ -85,8 +85,6 @@ def draw_env_all():
 if __name__ == "__main__":
     if not os.path.exists("mujoco_pics"):
         os.makedirs("mujoco_pics")
-    # draw_env_all()
-    # plt.clf()
     for i in range(4):
         draw_env(names[i], i)
         plt.clf()

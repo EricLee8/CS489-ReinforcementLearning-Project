@@ -35,20 +35,20 @@ The results are presented as follows. Note that due to the shortage of time and 
 
 ### Atari Games
 
-|    Environment Name    | Best Testing Score |
-| :--------------------: | :----------------: |
-| BreakoutNoFrameskip-v4 |       398.0        |
-|   PongNoFrameskip-v4   |        20.0        |
-|  BoxingNoFrameskip-v4  |        92.3        |
+|    Environment Name    | Average Testing Score | Training Steps |
+| :--------------------: | :-------------------: | :------------: |
+| BreakoutNoFrameskip-v4 |      416.4±38.6       |      10M       |
+|   PongNoFrameskip-v4   |       20.7±0.5        |      10M       |
+|  BoxingNoFrameskip-v4  |       96.3±3.1        |      10M       |
 
 ### Mujoco Robots
 
-| Evironment Name | Best Testing Score |
-| :-------------: | :----------------: |
-|    Hopper-v2    |       3777.3       |
-|   Humanoid-v2   |       6422.1       |
-| HalfCheetah-v2  |      15875.6       |
-|     Ant-v2      |       6978.2       |
+| Environment Name | Average Testing Score | Training Steps |
+| :--------------: | :-------------------: | :------------: |
+|    Hopper-v2     |      4132.8±30.9      |       3M       |
+|   Humanoid-v2    |     6422.1±658.6      |      10M       |
+|  HalfCheetah-v2  |     15875.6±36.4      |       3M       |
+|      Ant-v2      |      6978.2±75.1      |       3M       |
 
 ## Training Reward Pictures
 ### Atari Games
