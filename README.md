@@ -19,11 +19,17 @@ Note that gym[atari], tb-nightly future and mujoco_py can not be install by runn
 
 For mujoco_py, you need to get a license.  
 
-After installing all dependencies, you can run my code as:  
+After installing all dependencies, you can run my code to train the models as:  
 
 `$ python run.py --env_name BreakoutNoFrameskip-v4`
 
 Note that my code only support the following 7 environments!
+
+I also provide trained models to do the demo task or testing task, you can do the demo like:  
+
+`$ python test.py --env_name BreakoutNoFrameskip-v4 --num_episode 10`
+
+Note that when num_episode=1, we will do rendering during test. Make sure you have graphical interface to run this.
 
 ## Methods
 

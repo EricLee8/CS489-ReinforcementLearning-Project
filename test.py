@@ -3,6 +3,7 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--env_name', type=str, default='BreakoutNoFrameskip-v4')
+parser.add_argument('--num_episode', type=int, default=10)
 args = parser.parse_args()
 
 assert args.env_name in ["BreakoutNoFrameskip-v4", "PongNoFrameskip-v4", \
@@ -11,8 +12,8 @@ assert args.env_name in ["BreakoutNoFrameskip-v4", "PongNoFrameskip-v4", \
 
 if args.env_name in ["BreakoutNoFrameskip-v4", "PongNoFrameskip-v4", "BoxingNoFrameskip-v4"]:
     os.chdir("atari")
-    os.system("python demo.py --env_name " + args.env_name)
+    os.system("python demo.py --env_name " + args.env_name + " --num_episode " + args.num_episode)
 
 else:
     os.chdir("mujoco")
-    os.system("python demo.py --env_name " + args.env_name)
+    os.system("python demo.py --env_name " + args.env_name + " --num_episode " + args.num_episode)

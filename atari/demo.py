@@ -20,6 +20,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu") # if gpu i
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--env_name', type=str, default='BreakoutNoFrameskip-v4')
+parser.add_argument('--num_episode', type=int, default=10)
 args = parser.parse_args()
 
 
@@ -67,4 +68,4 @@ def demo(num_episode=1):
 
 
 if __name__ == "__main__":
-    demo(10)
+    demo(args.num_episode)

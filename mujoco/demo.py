@@ -12,10 +12,13 @@ import warnings
 warnings.filterwarnings('ignore')
 
 
-def testing(num_episode=10):
+def testing():
     parser = argparse.ArgumentParser()
     parser.add_argument('--env_name', type=str, default='HalfCheetah-v2')
+    parser.add_argument('--num_episode', type=int, default=10)
     args = parser.parse_args()
+
+    num_episode = args.num_episode
 
     env = gym.make(args.env_name)
     device = torch.device(
@@ -41,7 +44,8 @@ def testing(num_episode=10):
         episode_reward = 0.
         done = False
         while not done:
-            # env.render()
+            if num_episode <= 1:
+                env.render()
             action = exploit(state)
             next_state, reward, done, _ = env.step(action)
             episode_reward += reward
