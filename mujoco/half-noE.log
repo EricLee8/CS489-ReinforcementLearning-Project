@@ -2141,3 +2141,11 @@ episode: 1646  episode steps: 1000  reward: 13107.4
 episode: 1647  episode steps: 1000  reward: 12977.5
 episode: 1648  episode steps: 1000  reward: 13302.3
 episode: 1649  episode steps: 1000  reward: 12730.7
+------------------------------------------------------------
+Num steps: 1650000  reward: 13675.9
+------------------------------------------------------------
+episode: 1650  episode steps: 1000  reward: 12712.9
+episode: 1651  episode steps: 1000  reward: 2984.3
+episode: 1652  episode steps: 1000  reward: 13113.7
+episode: 1653  episode steps: 1000  reward: 5900.5
+episode: 1654  episode steps: 1000  reward: 13375.1
