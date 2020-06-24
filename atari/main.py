@@ -109,7 +109,7 @@ def evaluate(step, policy_net, device, env, n_actions, eps=0.01, num_episode=5):
             
             e_reward += reward
         e_rewards.append(e_reward)
-    
+
     f = open(env_name+".csv",'a')
     avg_reward = float(sum(e_rewards))/float(num_episode)
     std = np.array(e_rewards).std()

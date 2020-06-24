@@ -1,5 +1,6 @@
 from matplotlib import pyplot as plt
 import numpy as np
+import json
 import os
 
 names = ["ant", "half", "hopper", "human"]
@@ -26,7 +27,7 @@ def get_train_data(name):
     rewards = []
     steps = []
     stds = []
-    with open("mujoco/" + name + ".log") as f:
+    with open("mujoco/results/" + name + ".log") as f:
         line = f.readline()
         while line:
             line = f.readline()
@@ -50,7 +51,15 @@ def draw_env(name, i):
     r1 = list(map(lambda x: x[0]-x[1], zip(rewards, stds)))
     r2 = list(map(lambda x: x[0]+x[1], zip(rewards, stds)))
     plt.fill_between(steps, r1, r2, alpha=0.35)
-    plt.plot(steps, rewards, label=real_names[i])
+    plt.plot(steps, rewards, label=real_names[i]+"-SAC")
+
+    f = open("mujoco/results/"+name+"_ppo.json", "r")
+    loadDict = json.load(f)
+    rewards, stds = loadDict["rewards"], loadDict["stds"]
+    r1 = list(map(lambda x: x[0]-x[1], zip(rewards, stds)))
+    r2 = list(map(lambda x: x[0]+x[1], zip(rewards, stds)))
+    plt.fill_between(steps, r1, r2, alpha=0.35)
+    plt.plot(steps, rewards, label=real_names[i]+"-PPO")
     plt.grid()
     plt.xlabel("Number of training steps (*10000)")
     plt.ylabel("Testing reward")

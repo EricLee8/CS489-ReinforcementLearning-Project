@@ -1,0 +1,2143 @@
+/root/anaconda3/envs/pytorch/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+episode: 1     episode steps: 1000  reward: -425.3
+episode: 2     episode steps: 1000  reward: -305.8
+episode: 3     episode steps: 1000  reward: -374.3
+episode: 4     episode steps: 1000  reward: -409.9
+episode: 5     episode steps: 1000  reward: -335.4
+episode: 6     episode steps: 1000  reward: -276.6
+episode: 7     episode steps: 1000  reward: -266.7
+episode: 8     episode steps: 1000  reward: -228.0
+episode: 9     episode steps: 1000  reward: -287.6
+------------------------------------------------------------
+Num steps: 10000  reward: 55.2 
+------------------------------------------------------------
+episode: 10    episode steps: 1000  reward: -456.3
+episode: 11    episode steps: 1000  reward: -172.4
+episode: 12    episode steps: 1000  reward: -214.8
+episode: 13    episode steps: 1000  reward: -164.2
+episode: 14    episode steps: 1000  reward: -403.4
+episode: 15    episode steps: 1000  reward: -276.6
+episode: 16    episode steps: 1000  reward: -282.5
+episode: 17    episode steps: 1000  reward: -295.4
+episode: 18    episode steps: 1000  reward: -197.3
+episode: 19    episode steps: 1000  reward: -119.5
+------------------------------------------------------------
+Num steps: 20000  reward: 307.6
+------------------------------------------------------------
+episode: 20    episode steps: 1000  reward: -162.6
+episode: 21    episode steps: 1000  reward: -101.4
+episode: 22    episode steps: 1000  reward: -128.3
+episode: 23    episode steps: 1000  reward: -179.4
+episode: 24    episode steps: 1000  reward: -214.4
+episode: 25    episode steps: 1000  reward: 42.1 
+episode: 26    episode steps: 1000  reward: -209.1
+episode: 27    episode steps: 1000  reward: 27.3 
+episode: 28    episode steps: 1000  reward: -42.5
+episode: 29    episode steps: 1000  reward: 41.7 
+------------------------------------------------------------
+Num steps: 30000  reward: 826.8
+------------------------------------------------------------
+episode: 30    episode steps: 1000  reward: 318.2
+episode: 31    episode steps: 1000  reward: -40.6
+episode: 32    episode steps: 1000  reward: 42.5 
+episode: 33    episode steps: 1000  reward: 573.1
+episode: 34    episode steps: 1000  reward: 184.4
+episode: 35    episode steps: 1000  reward: 866.9
+episode: 36    episode steps: 1000  reward: 1318.2
+episode: 37    episode steps: 1000  reward: 1295.6
+episode: 38    episode steps: 1000  reward: 1457.4
+episode: 39    episode steps: 1000  reward: 27.5 
+------------------------------------------------------------
+Num steps: 40000  reward: 1820.4
+------------------------------------------------------------
+episode: 40    episode steps: 1000  reward: 1528.6
+episode: 41    episode steps: 1000  reward: 1623.9
+episode: 42    episode steps: 1000  reward: 1651.1
+episode: 43    episode steps: 1000  reward: 1844.1
+episode: 44    episode steps: 1000  reward: 1934.6
+episode: 45    episode steps: 1000  reward: 1972.3
+episode: 46    episode steps: 1000  reward: 2144.9
+episode: 47    episode steps: 1000  reward: 1951.8
+episode: 48    episode steps: 1000  reward: 2169.6
+episode: 49    episode steps: 1000  reward: 2279.3
+------------------------------------------------------------
+Num steps: 50000  reward: 3057.9
+------------------------------------------------------------
+episode: 50    episode steps: 1000  reward: 2100.7
+episode: 51    episode steps: 1000  reward: 2376.9
+episode: 52    episode steps: 1000  reward: 1218.2
+episode: 53    episode steps: 1000  reward: 2792.6
+episode: 54    episode steps: 1000  reward: 2507.5
+episode: 55    episode steps: 1000  reward: 2897.9
+episode: 56    episode steps: 1000  reward: 2944.8
+episode: 57    episode steps: 1000  reward: 3131.6
+episode: 58    episode steps: 1000  reward: 3183.2
+episode: 59    episode steps: 1000  reward: 2945.1
+------------------------------------------------------------
+Num steps: 60000  reward: 3768.1
+------------------------------------------------------------
+episode: 60    episode steps: 1000  reward: 3455.1
+episode: 61    episode steps: 1000  reward: 3025.5
+episode: 62    episode steps: 1000  reward: 3590.6
+episode: 63    episode steps: 1000  reward: 3475.3
+episode: 64    episode steps: 1000  reward: 3387.3
+episode: 65    episode steps: 1000  reward: 3624.1
+episode: 66    episode steps: 1000  reward: 3710.4
+episode: 67    episode steps: 1000  reward: 3419.2
+episode: 68    episode steps: 1000  reward: 3702.1
+episode: 69    episode steps: 1000  reward: 2765.6
+------------------------------------------------------------
+Num steps: 70000  reward: 4061.4
+------------------------------------------------------------
+episode: 70    episode steps: 1000  reward: 3885.9
+episode: 71    episode steps: 1000  reward: 3792.4
+episode: 72    episode steps: 1000  reward: 3502.5
+episode: 73    episode steps: 1000  reward: 3595.6
+episode: 74    episode steps: 1000  reward: 3824.9
+episode: 75    episode steps: 1000  reward: 3609.0
+episode: 76    episode steps: 1000  reward: 3834.7
+episode: 77    episode steps: 1000  reward: 3983.3
+episode: 78    episode steps: 1000  reward: 4228.9
+episode: 79    episode steps: 1000  reward: 4046.4
+------------------------------------------------------------
+Num steps: 80000  reward: 4696.7
+------------------------------------------------------------
+episode: 80    episode steps: 1000  reward: 4188.2
+episode: 81    episode steps: 1000  reward: 4271.4
+episode: 82    episode steps: 1000  reward: 4338.5
+episode: 83    episode steps: 1000  reward: 4125.9
+episode: 84    episode steps: 1000  reward: 4279.8
+episode: 85    episode steps: 1000  reward: 4516.8
+episode: 86    episode steps: 1000  reward: 4506.4
+episode: 87    episode steps: 1000  reward: 4607.3
+episode: 88    episode steps: 1000  reward: 4454.4
+episode: 89    episode steps: 1000  reward: 4641.1
+------------------------------------------------------------
+Num steps: 90000  reward: 5121.6
+------------------------------------------------------------
+episode: 90    episode steps: 1000  reward: 4777.7
+episode: 91    episode steps: 1000  reward: 4544.1
+episode: 92    episode steps: 1000  reward: 4605.9
+episode: 93    episode steps: 1000  reward: 4740.0
+episode: 94    episode steps: 1000  reward: 4830.8
+episode: 95    episode steps: 1000  reward: 4971.6
+episode: 96    episode steps: 1000  reward: 4821.2
+episode: 97    episode steps: 1000  reward: 4893.6
+episode: 98    episode steps: 1000  reward: 5211.0
+episode: 99    episode steps: 1000  reward: 4659.3
+------------------------------------------------------------
+Num steps: 100000  reward: 5430.5
+------------------------------------------------------------
+episode: 100   episode steps: 1000  reward: 5014.8
+episode: 101   episode steps: 1000  reward: 5096.2
+episode: 102   episode steps: 1000  reward: 5154.0
+episode: 103   episode steps: 1000  reward: 5225.4
+episode: 104   episode steps: 1000  reward: 5064.0
+episode: 105   episode steps: 1000  reward: 5195.9
+episode: 106   episode steps: 1000  reward: 5354.2
+episode: 107   episode steps: 1000  reward: 5366.4
+episode: 108   episode steps: 1000  reward: 2426.3
+episode: 109   episode steps: 1000  reward: 5274.2
+------------------------------------------------------------
+Num steps: 110000  reward: 5888.1
+------------------------------------------------------------
+episode: 110   episode steps: 1000  reward: 5292.6
+episode: 111   episode steps: 1000  reward: 5408.9
+episode: 112   episode steps: 1000  reward: 5618.4
+episode: 113   episode steps: 1000  reward: 5230.6
+episode: 114   episode steps: 1000  reward: 5654.4
+episode: 115   episode steps: 1000  reward: 5623.4
+episode: 116   episode steps: 1000  reward: 5684.0
+episode: 117   episode steps: 1000  reward: 5654.7
+episode: 118   episode steps: 1000  reward: 5568.1
+episode: 119   episode steps: 1000  reward: 5840.9
+------------------------------------------------------------
+Num steps: 120000  reward: 6159.4
+------------------------------------------------------------
+episode: 120   episode steps: 1000  reward: 5747.7
+episode: 121   episode steps: 1000  reward: 5931.0
+episode: 122   episode steps: 1000  reward: 5721.0
+episode: 123   episode steps: 1000  reward: 5797.4
+episode: 124   episode steps: 1000  reward: 5901.1
+episode: 125   episode steps: 1000  reward: 6041.9
+episode: 126   episode steps: 1000  reward: 5864.2
+episode: 127   episode steps: 1000  reward: 5829.1
+episode: 128   episode steps: 1000  reward: 5664.0
+episode: 129   episode steps: 1000  reward: 5934.9
+------------------------------------------------------------
+Num steps: 130000  reward: 6570.8
+------------------------------------------------------------
+episode: 130   episode steps: 1000  reward: 5990.4
+episode: 131   episode steps: 1000  reward: 5950.6
+episode: 132   episode steps: 1000  reward: 6046.3
+episode: 133   episode steps: 1000  reward: 5830.3
+episode: 134   episode steps: 1000  reward: 6022.5
+episode: 135   episode steps: 1000  reward: 6125.1
+episode: 136   episode steps: 1000  reward: 6162.4
+episode: 137   episode steps: 1000  reward: 6270.8
+episode: 138   episode steps: 1000  reward: 6035.4
+episode: 139   episode steps: 1000  reward: 6064.4
+------------------------------------------------------------
+Num steps: 140000  reward: 5767.3
+------------------------------------------------------------
+episode: 140   episode steps: 1000  reward: 6066.8
+episode: 141   episode steps: 1000  reward: 6117.0
+episode: 142   episode steps: 1000  reward: 6202.6
+episode: 143   episode steps: 1000  reward: 6408.9
+episode: 144   episode steps: 1000  reward: 6348.0
+episode: 145   episode steps: 1000  reward: 6244.2
+episode: 146   episode steps: 1000  reward: 6363.1
+episode: 147   episode steps: 1000  reward: 6444.1
+episode: 148   episode steps: 1000  reward: 6415.0
+episode: 149   episode steps: 1000  reward: 6321.2
+------------------------------------------------------------
+Num steps: 150000  reward: 6763.4
+------------------------------------------------------------
+episode: 150   episode steps: 1000  reward: 6349.5
+episode: 151   episode steps: 1000  reward: 6220.4
+episode: 152   episode steps: 1000  reward: 6533.0
+episode: 153   episode steps: 1000  reward: 6220.6
+episode: 154   episode steps: 1000  reward: 6404.6
+episode: 155   episode steps: 1000  reward: 6568.8
+episode: 156   episode steps: 1000  reward: 6386.5
+episode: 157   episode steps: 1000  reward: 6646.2
+episode: 158   episode steps: 1000  reward: 6559.5
+episode: 159   episode steps: 1000  reward: 6629.8
+------------------------------------------------------------
+Num steps: 160000  reward: 6605.2
+------------------------------------------------------------
+episode: 160   episode steps: 1000  reward: 6489.2
+episode: 161   episode steps: 1000  reward: 6473.3
+episode: 162   episode steps: 1000  reward: 6573.8
+episode: 163   episode steps: 1000  reward: 5775.3
+episode: 164   episode steps: 1000  reward: 6492.7
+episode: 165   episode steps: 1000  reward: 6594.3
+episode: 166   episode steps: 1000  reward: 6528.9
+episode: 167   episode steps: 1000  reward: 6599.8
+episode: 168   episode steps: 1000  reward: 6669.2
+episode: 169   episode steps: 1000  reward: 6543.8
+------------------------------------------------------------
+Num steps: 170000  reward: 7048.3
+------------------------------------------------------------
+episode: 170   episode steps: 1000  reward: 6736.7
+episode: 171   episode steps: 1000  reward: 6672.1
+episode: 172   episode steps: 1000  reward: 6606.0
+episode: 173   episode steps: 1000  reward: 6515.2
+episode: 174   episode steps: 1000  reward: 6700.8
+episode: 175   episode steps: 1000  reward: 6522.2
+episode: 176   episode steps: 1000  reward: 6755.9
+episode: 177   episode steps: 1000  reward: 6849.9
+episode: 178   episode steps: 1000  reward: 6585.5
+episode: 179   episode steps: 1000  reward: 6630.0
+------------------------------------------------------------
+Num steps: 180000  reward: 7080.2
+------------------------------------------------------------
+episode: 180   episode steps: 1000  reward: 6863.3
+episode: 181   episode steps: 1000  reward: 6684.2
+episode: 182   episode steps: 1000  reward: 6851.5
+episode: 183   episode steps: 1000  reward: 6819.4
+episode: 184   episode steps: 1000  reward: 6739.6
+episode: 185   episode steps: 1000  reward: 6728.5
+episode: 186   episode steps: 1000  reward: 6688.1
+episode: 187   episode steps: 1000  reward: 6629.1
+episode: 188   episode steps: 1000  reward: 6728.1
+episode: 189   episode steps: 1000  reward: 6924.7
+------------------------------------------------------------
+Num steps: 190000  reward: 7063.8
+------------------------------------------------------------
+episode: 190   episode steps: 1000  reward: 6797.2
+episode: 191   episode steps: 1000  reward: 6815.9
+episode: 192   episode steps: 1000  reward: 6773.8
+episode: 193   episode steps: 1000  reward: 6811.5
+episode: 194   episode steps: 1000  reward: 6869.1
+episode: 195   episode steps: 1000  reward: 6747.0
+episode: 196   episode steps: 1000  reward: 6913.7
+episode: 197   episode steps: 1000  reward: 6847.6
+episode: 198   episode steps: 1000  reward: 6961.3
+episode: 199   episode steps: 1000  reward: 6880.6
+------------------------------------------------------------
+Num steps: 200000  reward: 7458.4
+------------------------------------------------------------
+episode: 200   episode steps: 1000  reward: 7010.8
+episode: 201   episode steps: 1000  reward: 7039.0
+episode: 202   episode steps: 1000  reward: 7006.2
+episode: 203   episode steps: 1000  reward: 7018.8
+episode: 204   episode steps: 1000  reward: 6908.1
+episode: 205   episode steps: 1000  reward: 6960.6
+episode: 206   episode steps: 1000  reward: 6784.8
+episode: 207   episode steps: 1000  reward: 7130.4
+episode: 208   episode steps: 1000  reward: 7156.4
+episode: 209   episode steps: 1000  reward: 7213.4
+------------------------------------------------------------
+Num steps: 210000  reward: 7452.4
+------------------------------------------------------------
+episode: 210   episode steps: 1000  reward: 7168.9
+episode: 211   episode steps: 1000  reward: 6974.9
+episode: 212   episode steps: 1000  reward: 6785.8
+episode: 213   episode steps: 1000  reward: 7028.0
+episode: 214   episode steps: 1000  reward: 7030.1
+episode: 215   episode steps: 1000  reward: 7199.0
+episode: 216   episode steps: 1000  reward: 7113.4
+episode: 217   episode steps: 1000  reward: 7174.8
+episode: 218   episode steps: 1000  reward: 7164.9
+episode: 219   episode steps: 1000  reward: 7045.5
+------------------------------------------------------------
+Num steps: 220000  reward: 7533.7
+------------------------------------------------------------
+episode: 220   episode steps: 1000  reward: 7241.8
+episode: 221   episode steps: 1000  reward: 7066.2
+episode: 222   episode steps: 1000  reward: 7191.3
+episode: 223   episode steps: 1000  reward: 7275.2
+episode: 224   episode steps: 1000  reward: 7082.2
+episode: 225   episode steps: 1000  reward: 7207.0
+episode: 226   episode steps: 1000  reward: 7294.8
+episode: 227   episode steps: 1000  reward: 7202.2
+episode: 228   episode steps: 1000  reward: 7056.3
+episode: 229   episode steps: 1000  reward: 7104.5
+------------------------------------------------------------
+Num steps: 230000  reward: 7740.6
+------------------------------------------------------------
+episode: 230   episode steps: 1000  reward: 7321.9
+episode: 231   episode steps: 1000  reward: 7349.7
+episode: 232   episode steps: 1000  reward: 7318.9
+episode: 233   episode steps: 1000  reward: 6975.2
+episode: 234   episode steps: 1000  reward: 7366.6
+episode: 235   episode steps: 1000  reward: 7153.7
+episode: 236   episode steps: 1000  reward: 7318.7
+episode: 237   episode steps: 1000  reward: 7269.2
+episode: 238   episode steps: 1000  reward: 7243.5
+episode: 239   episode steps: 1000  reward: 7378.6
+------------------------------------------------------------
+Num steps: 240000  reward: 7899.7
+------------------------------------------------------------
+episode: 240   episode steps: 1000  reward: 7330.6
+episode: 241   episode steps: 1000  reward: 7664.1
+episode: 242   episode steps: 1000  reward: 7298.0
+episode: 243   episode steps: 1000  reward: 7342.2
+episode: 244   episode steps: 1000  reward: 7431.7
+episode: 245   episode steps: 1000  reward: 7624.3
+episode: 246   episode steps: 1000  reward: 7514.1
+episode: 247   episode steps: 1000  reward: 7329.9
+episode: 248   episode steps: 1000  reward: 7514.4
+episode: 249   episode steps: 1000  reward: 7572.0
+------------------------------------------------------------
+Num steps: 250000  reward: 7762.3
+------------------------------------------------------------
+episode: 250   episode steps: 1000  reward: 7482.7
+episode: 251   episode steps: 1000  reward: 7584.3
+episode: 252   episode steps: 1000  reward: 7580.9
+episode: 253   episode steps: 1000  reward: 7613.8
+episode: 254   episode steps: 1000  reward: 7489.0
+episode: 255   episode steps: 1000  reward: 7776.5
+episode: 256   episode steps: 1000  reward: 7686.1
+episode: 257   episode steps: 1000  reward: 7796.8
+episode: 258   episode steps: 1000  reward: 7874.8
+episode: 259   episode steps: 1000  reward: 7743.4
+------------------------------------------------------------
+Num steps: 260000  reward: 8090.0
+------------------------------------------------------------
+episode: 260   episode steps: 1000  reward: 7748.1
+episode: 261   episode steps: 1000  reward: 7596.8
+episode: 262   episode steps: 1000  reward: 7652.5
+episode: 263   episode steps: 1000  reward: 7773.9
+episode: 264   episode steps: 1000  reward: 7643.0
+episode: 265   episode steps: 1000  reward: 7782.6
+episode: 266   episode steps: 1000  reward: 7683.3
+episode: 267   episode steps: 1000  reward: 7936.7
+episode: 268   episode steps: 1000  reward: 8064.6
+episode: 269   episode steps: 1000  reward: 7753.6
+------------------------------------------------------------
+Num steps: 270000  reward: 8221.4
+------------------------------------------------------------
+episode: 270   episode steps: 1000  reward: 7988.4
+episode: 271   episode steps: 1000  reward: 7880.7
+episode: 272   episode steps: 1000  reward: 7786.6
+episode: 273   episode steps: 1000  reward: 7688.8
+episode: 274   episode steps: 1000  reward: 7759.8
+episode: 275   episode steps: 1000  reward: 7827.7
+episode: 276   episode steps: 1000  reward: 7817.2
+episode: 277   episode steps: 1000  reward: 7678.5
+episode: 278   episode steps: 1000  reward: 8034.4
+episode: 279   episode steps: 1000  reward: 7999.9
+------------------------------------------------------------
+Num steps: 280000  reward: 8400.6
+------------------------------------------------------------
+episode: 280   episode steps: 1000  reward: 7946.5
+episode: 281   episode steps: 1000  reward: 7833.0
+episode: 282   episode steps: 1000  reward: 7984.1
+episode: 283   episode steps: 1000  reward: 7931.7
+episode: 284   episode steps: 1000  reward: 8006.4
+episode: 285   episode steps: 1000  reward: 8045.5
+episode: 286   episode steps: 1000  reward: 7808.5
+episode: 287   episode steps: 1000  reward: 8197.2
+episode: 288   episode steps: 1000  reward: 7853.0
+episode: 289   episode steps: 1000  reward: 8053.9
+------------------------------------------------------------
+Num steps: 290000  reward: 8437.0
+------------------------------------------------------------
+episode: 290   episode steps: 1000  reward: 8156.5
+episode: 291   episode steps: 1000  reward: 8032.0
+episode: 292   episode steps: 1000  reward: 8032.2
+episode: 293   episode steps: 1000  reward: 8118.8
+episode: 294   episode steps: 1000  reward: 8046.3
+episode: 295   episode steps: 1000  reward: 7800.6
+episode: 296   episode steps: 1000  reward: 8120.8
+episode: 297   episode steps: 1000  reward: 8020.5
+episode: 298   episode steps: 1000  reward: 8118.6
+episode: 299   episode steps: 1000  reward: 8350.9
+------------------------------------------------------------
+Num steps: 300000  reward: 8579.5
+------------------------------------------------------------
+episode: 300   episode steps: 1000  reward: 8065.5
+episode: 301   episode steps: 1000  reward: 8162.2
+episode: 302   episode steps: 1000  reward: 7929.9
+episode: 303   episode steps: 1000  reward: 8237.6
+episode: 304   episode steps: 1000  reward: 8287.3
+episode: 305   episode steps: 1000  reward: 8363.1
+episode: 306   episode steps: 1000  reward: 8181.4
+episode: 307   episode steps: 1000  reward: 8134.6
+episode: 308   episode steps: 1000  reward: 8495.1
+episode: 309   episode steps: 1000  reward: 8299.4
+------------------------------------------------------------
+Num steps: 310000  reward: 8610.2
+------------------------------------------------------------
+episode: 310   episode steps: 1000  reward: 8577.5
+episode: 311   episode steps: 1000  reward: 8109.8
+episode: 312   episode steps: 1000  reward: 8471.7
+episode: 313   episode steps: 1000  reward: 8222.9
+episode: 314   episode steps: 1000  reward: 8205.5
+episode: 315   episode steps: 1000  reward: 8450.5
+episode: 316   episode steps: 1000  reward: 8335.6
+episode: 317   episode steps: 1000  reward: 8384.8
+episode: 318   episode steps: 1000  reward: 8273.2
+episode: 319   episode steps: 1000  reward: 8370.7
+------------------------------------------------------------
+Num steps: 320000  reward: 8804.4
+------------------------------------------------------------
+episode: 320   episode steps: 1000  reward: 8388.0
+episode: 321   episode steps: 1000  reward: 8425.6
+episode: 322   episode steps: 1000  reward: 8310.1
+episode: 323   episode steps: 1000  reward: 8067.0
+episode: 324   episode steps: 1000  reward: 8587.2
+episode: 325   episode steps: 1000  reward: 8354.7
+episode: 326   episode steps: 1000  reward: 8062.3
+episode: 327   episode steps: 1000  reward: 8444.3
+episode: 328   episode steps: 1000  reward: 8519.2
+episode: 329   episode steps: 1000  reward: 8058.4
+------------------------------------------------------------
+Num steps: 330000  reward: 8810.3
+------------------------------------------------------------
+episode: 330   episode steps: 1000  reward: 8529.9
+episode: 331   episode steps: 1000  reward: 8581.5
+episode: 332   episode steps: 1000  reward: 8465.5
+episode: 333   episode steps: 1000  reward: 8342.5
+episode: 334   episode steps: 1000  reward: 8655.8
+episode: 335   episode steps: 1000  reward: 8429.1
+episode: 336   episode steps: 1000  reward: 8398.6
+episode: 337   episode steps: 1000  reward: 8628.6
+episode: 338   episode steps: 1000  reward: 8440.4
+episode: 339   episode steps: 1000  reward: 8496.0
+------------------------------------------------------------
+Num steps: 340000  reward: 8896.5
+------------------------------------------------------------
+episode: 340   episode steps: 1000  reward: 8620.4
+episode: 341   episode steps: 1000  reward: 8569.9
+episode: 342   episode steps: 1000  reward: 8521.6
+episode: 343   episode steps: 1000  reward: 8635.9
+episode: 344   episode steps: 1000  reward: 8536.6
+episode: 345   episode steps: 1000  reward: 8785.1
+episode: 346   episode steps: 1000  reward: 8644.5
+episode: 347   episode steps: 1000  reward: 8681.9
+episode: 348   episode steps: 1000  reward: 8681.4
+episode: 349   episode steps: 1000  reward: 8672.8
+------------------------------------------------------------
+Num steps: 350000  reward: 8980.1
+------------------------------------------------------------
+episode: 350   episode steps: 1000  reward: 8706.6
+episode: 351   episode steps: 1000  reward: 8892.0
+episode: 352   episode steps: 1000  reward: 8513.4
+episode: 353   episode steps: 1000  reward: 8678.7
+episode: 354   episode steps: 1000  reward: 8528.0
+episode: 355   episode steps: 1000  reward: 8763.8
+episode: 356   episode steps: 1000  reward: 8753.0
+episode: 357   episode steps: 1000  reward: 8553.8
+episode: 358   episode steps: 1000  reward: 8515.4
+episode: 359   episode steps: 1000  reward: 8762.9
+------------------------------------------------------------
+Num steps: 360000  reward: 9095.9
+------------------------------------------------------------
+episode: 360   episode steps: 1000  reward: 8761.4
+episode: 361   episode steps: 1000  reward: 9010.8
+episode: 362   episode steps: 1000  reward: 8737.1
+episode: 363   episode steps: 1000  reward: 8514.9
+episode: 364   episode steps: 1000  reward: 8804.1
+episode: 365   episode steps: 1000  reward: 8638.7
+episode: 366   episode steps: 1000  reward: 8715.4
+episode: 367   episode steps: 1000  reward: 8650.9
+episode: 368   episode steps: 1000  reward: 4138.5
+episode: 369   episode steps: 1000  reward: 8606.1
+------------------------------------------------------------
+Num steps: 370000  reward: 9035.0
+------------------------------------------------------------
+episode: 370   episode steps: 1000  reward: 8718.3
+episode: 371   episode steps: 1000  reward: 8757.5
+episode: 372   episode steps: 1000  reward: 8585.7
+episode: 373   episode steps: 1000  reward: 8758.3
+episode: 374   episode steps: 1000  reward: 8781.5
+episode: 375   episode steps: 1000  reward: 8723.7
+episode: 376   episode steps: 1000  reward: 8949.4
+episode: 377   episode steps: 1000  reward: 8838.9
+episode: 378   episode steps: 1000  reward: 8760.1
+episode: 379   episode steps: 1000  reward: 8830.2
+------------------------------------------------------------
+Num steps: 380000  reward: 9242.9
+------------------------------------------------------------
+episode: 380   episode steps: 1000  reward: 8975.1
+episode: 381   episode steps: 1000  reward: 8824.5
+episode: 382   episode steps: 1000  reward: 8844.3
+episode: 383   episode steps: 1000  reward: 8834.3
+episode: 384   episode steps: 1000  reward: 8949.1
+episode: 385   episode steps: 1000  reward: 8859.9
+episode: 386   episode steps: 1000  reward: 8822.6
+episode: 387   episode steps: 1000  reward: 8857.7
+episode: 388   episode steps: 1000  reward: 8980.1
+episode: 389   episode steps: 1000  reward: 8799.8
+------------------------------------------------------------
+Num steps: 390000  reward: 8887.5
+------------------------------------------------------------
+episode: 390   episode steps: 1000  reward: 8816.8
+episode: 391   episode steps: 1000  reward: 9049.4
+episode: 392   episode steps: 1000  reward: 8621.7
+episode: 393   episode steps: 1000  reward: 8867.1
+episode: 394   episode steps: 1000  reward: 9096.9
+episode: 395   episode steps: 1000  reward: 9111.8
+episode: 396   episode steps: 1000  reward: 8765.0
+episode: 397   episode steps: 1000  reward: 9050.8
+episode: 398   episode steps: 1000  reward: 8879.9
+episode: 399   episode steps: 1000  reward: 9044.5
+------------------------------------------------------------
+Num steps: 400000  reward: 9298.6
+------------------------------------------------------------
+episode: 400   episode steps: 1000  reward: 8961.2
+episode: 401   episode steps: 1000  reward: 9028.4
+episode: 402   episode steps: 1000  reward: 8994.9
+episode: 403   episode steps: 1000  reward: 8946.5
+episode: 404   episode steps: 1000  reward: 9030.9
+episode: 405   episode steps: 1000  reward: 8935.4
+episode: 406   episode steps: 1000  reward: 8814.4
+episode: 407   episode steps: 1000  reward: 9068.0
+episode: 408   episode steps: 1000  reward: 9010.8
+episode: 409   episode steps: 1000  reward: 9029.2
+------------------------------------------------------------
+Num steps: 410000  reward: 9326.1
+------------------------------------------------------------
+episode: 410   episode steps: 1000  reward: 8997.1
+episode: 411   episode steps: 1000  reward: 9106.4
+episode: 412   episode steps: 1000  reward: 9122.2
+episode: 413   episode steps: 1000  reward: 8988.6
+episode: 414   episode steps: 1000  reward: 9126.1
+episode: 415   episode steps: 1000  reward: 9140.3
+episode: 416   episode steps: 1000  reward: 8867.4
+episode: 417   episode steps: 1000  reward: 9044.4
+episode: 418   episode steps: 1000  reward: 9036.5
+episode: 419   episode steps: 1000  reward: 8957.8
+------------------------------------------------------------
+Num steps: 420000  reward: 9343.1
+------------------------------------------------------------
+episode: 420   episode steps: 1000  reward: 9238.3
+episode: 421   episode steps: 1000  reward: 9142.0
+episode: 422   episode steps: 1000  reward: 8958.0
+episode: 423   episode steps: 1000  reward: 9069.4
+episode: 424   episode steps: 1000  reward: 9283.6
+episode: 425   episode steps: 1000  reward: 8922.5
+episode: 426   episode steps: 1000  reward: 9218.9
+episode: 427   episode steps: 1000  reward: 9310.6
+episode: 428   episode steps: 1000  reward: 9376.0
+episode: 429   episode steps: 1000  reward: 9071.0
+------------------------------------------------------------
+Num steps: 430000  reward: 9412.0
+------------------------------------------------------------
+episode: 430   episode steps: 1000  reward: 8925.0
+episode: 431   episode steps: 1000  reward: 9032.1
+episode: 432   episode steps: 1000  reward: 9070.2
+episode: 433   episode steps: 1000  reward: 8976.9
+episode: 434   episode steps: 1000  reward: 9354.1
+episode: 435   episode steps: 1000  reward: 9218.5
+episode: 436   episode steps: 1000  reward: 8914.8
+episode: 437   episode steps: 1000  reward: 9138.7
+episode: 438   episode steps: 1000  reward: 9117.7
+episode: 439   episode steps: 1000  reward: 9227.6
+------------------------------------------------------------
+Num steps: 440000  reward: 9275.6
+------------------------------------------------------------
+episode: 440   episode steps: 1000  reward: 8919.8
+episode: 441   episode steps: 1000  reward: 8990.7
+episode: 442   episode steps: 1000  reward: 9314.5
+episode: 443   episode steps: 1000  reward: 9223.1
+episode: 444   episode steps: 1000  reward: 9272.6
+episode: 445   episode steps: 1000  reward: 9152.3
+episode: 446   episode steps: 1000  reward: 9335.5
+episode: 447   episode steps: 1000  reward: 9104.2
+episode: 448   episode steps: 1000  reward: 9342.8
+episode: 449   episode steps: 1000  reward: 9101.8
+------------------------------------------------------------
+Num steps: 450000  reward: 9568.1
+------------------------------------------------------------
+episode: 450   episode steps: 1000  reward: 9211.1
+episode: 451   episode steps: 1000  reward: 9144.9
+episode: 452   episode steps: 1000  reward: 9302.3
+episode: 453   episode steps: 1000  reward: 9152.7
+episode: 454   episode steps: 1000  reward: 9382.6
+episode: 455   episode steps: 1000  reward: 9246.6
+episode: 456   episode steps: 1000  reward: 9317.2
+episode: 457   episode steps: 1000  reward: 9164.5
+episode: 458   episode steps: 1000  reward: 9095.7
+episode: 459   episode steps: 1000  reward: 9463.1
+------------------------------------------------------------
+Num steps: 460000  reward: 9584.8
+------------------------------------------------------------
+episode: 460   episode steps: 1000  reward: 9506.3
+episode: 461   episode steps: 1000  reward: 9410.2
+episode: 462   episode steps: 1000  reward: 9339.7
+episode: 463   episode steps: 1000  reward: 9340.4
+episode: 464   episode steps: 1000  reward: 9217.5
+episode: 465   episode steps: 1000  reward: 9230.9
+episode: 466   episode steps: 1000  reward: 9219.1
+episode: 467   episode steps: 1000  reward: 9359.1
+episode: 468   episode steps: 1000  reward: 9598.7
+episode: 469   episode steps: 1000  reward: 9116.3
+------------------------------------------------------------
+Num steps: 470000  reward: 9738.8
+------------------------------------------------------------
+episode: 470   episode steps: 1000  reward: 9560.7
+episode: 471   episode steps: 1000  reward: 9168.1
+episode: 472   episode steps: 1000  reward: 9252.5
+episode: 473   episode steps: 1000  reward: 9412.0
+episode: 474   episode steps: 1000  reward: 9444.7
+episode: 475   episode steps: 1000  reward: 9295.6
+episode: 476   episode steps: 1000  reward: 9484.1
+episode: 477   episode steps: 1000  reward: 9293.9
+episode: 478   episode steps: 1000  reward: 9540.6
+episode: 479   episode steps: 1000  reward: 9527.9
+------------------------------------------------------------
+Num steps: 480000  reward: 9861.0
+------------------------------------------------------------
+episode: 480   episode steps: 1000  reward: 9665.3
+episode: 481   episode steps: 1000  reward: 9623.7
+episode: 482   episode steps: 1000  reward: 9395.3
+episode: 483   episode steps: 1000  reward: 9414.8
+episode: 484   episode steps: 1000  reward: 9368.3
+episode: 485   episode steps: 1000  reward: 9193.9
+episode: 486   episode steps: 1000  reward: 9505.8
+episode: 487   episode steps: 1000  reward: 9548.0
+episode: 488   episode steps: 1000  reward: 9516.6
+episode: 489   episode steps: 1000  reward: 9456.5
+------------------------------------------------------------
+Num steps: 490000  reward: 9823.2
+------------------------------------------------------------
+episode: 490   episode steps: 1000  reward: 9523.9
+episode: 491   episode steps: 1000  reward: 9341.7
+episode: 492   episode steps: 1000  reward: 9458.7
+episode: 493   episode steps: 1000  reward: 9785.9
+episode: 494   episode steps: 1000  reward: 9451.2
+episode: 495   episode steps: 1000  reward: 9551.0
+episode: 496   episode steps: 1000  reward: 9420.0
+episode: 497   episode steps: 1000  reward: 9435.4
+episode: 498   episode steps: 1000  reward: 9455.4
+episode: 499   episode steps: 1000  reward: 9723.5
+------------------------------------------------------------
+Num steps: 500000  reward: 9943.0
+------------------------------------------------------------
+episode: 500   episode steps: 1000  reward: 9593.7
+episode: 501   episode steps: 1000  reward: 9336.0
+episode: 502   episode steps: 1000  reward: 9661.8
+episode: 503   episode steps: 1000  reward: 9363.5
+episode: 504   episode steps: 1000  reward: 9458.1
+episode: 505   episode steps: 1000  reward: 9540.2
+episode: 506   episode steps: 1000  reward: 9639.6
+episode: 507   episode steps: 1000  reward: 9657.6
+episode: 508   episode steps: 1000  reward: 9562.5
+episode: 509   episode steps: 1000  reward: 9615.6
+------------------------------------------------------------
+Num steps: 510000  reward: 9837.7
+------------------------------------------------------------
+episode: 510   episode steps: 1000  reward: 9568.7
+episode: 511   episode steps: 1000  reward: 9686.8
+episode: 512   episode steps: 1000  reward: 9719.6
+episode: 513   episode steps: 1000  reward: 9717.2
+episode: 514   episode steps: 1000  reward: 9708.4
+episode: 515   episode steps: 1000  reward: 9543.0
+episode: 516   episode steps: 1000  reward: 9689.3
+episode: 517   episode steps: 1000  reward: 9741.0
+episode: 518   episode steps: 1000  reward: 9631.0
+episode: 519   episode steps: 1000  reward: 9467.0
+------------------------------------------------------------
+Num steps: 520000  reward: 10147.3
+------------------------------------------------------------
+episode: 520   episode steps: 1000  reward: 9778.6
+episode: 521   episode steps: 1000  reward: 9741.2
+episode: 522   episode steps: 1000  reward: 9408.7
+episode: 523   episode steps: 1000  reward: 9667.9
+episode: 524   episode steps: 1000  reward: 9670.7
+episode: 525   episode steps: 1000  reward: 9695.1
+episode: 526   episode steps: 1000  reward: 9853.3
+episode: 527   episode steps: 1000  reward: 9700.6
+episode: 528   episode steps: 1000  reward: 9523.4
+episode: 529   episode steps: 1000  reward: 9740.3
+------------------------------------------------------------
+Num steps: 530000  reward: 9760.7
+------------------------------------------------------------
+episode: 530   episode steps: 1000  reward: 9745.4
+episode: 531   episode steps: 1000  reward: 9713.3
+episode: 532   episode steps: 1000  reward: 9617.9
+episode: 533   episode steps: 1000  reward: 10027.1
+episode: 534   episode steps: 1000  reward: 9584.8
+episode: 535   episode steps: 1000  reward: 9718.5
+episode: 536   episode steps: 1000  reward: 9937.6
+episode: 537   episode steps: 1000  reward: 9691.6
+episode: 538   episode steps: 1000  reward: 9700.6
+episode: 539   episode steps: 1000  reward: 9743.5
+------------------------------------------------------------
+Num steps: 540000  reward: 10001.1
+------------------------------------------------------------
+episode: 540   episode steps: 1000  reward: 9801.7
+episode: 541   episode steps: 1000  reward: 9758.5
+episode: 542   episode steps: 1000  reward: 9633.4
+episode: 543   episode steps: 1000  reward: 9706.5
+episode: 544   episode steps: 1000  reward: 9555.5
+episode: 545   episode steps: 1000  reward: 9646.7
+episode: 546   episode steps: 1000  reward: 9955.8
+episode: 547   episode steps: 1000  reward: 9826.7
+episode: 548   episode steps: 1000  reward: 9545.0
+episode: 549   episode steps: 1000  reward: 9519.1
+------------------------------------------------------------
+Num steps: 550000  reward: 9969.2
+------------------------------------------------------------
+episode: 550   episode steps: 1000  reward: 10013.3
+episode: 551   episode steps: 1000  reward: 9965.4
+episode: 552   episode steps: 1000  reward: 9815.9
+episode: 553   episode steps: 1000  reward: 9645.7
+episode: 554   episode steps: 1000  reward: 9647.0
+episode: 555   episode steps: 1000  reward: 9901.9
+episode: 556   episode steps: 1000  reward: 9601.3
+episode: 557   episode steps: 1000  reward: 9586.8
+episode: 558   episode steps: 1000  reward: 9871.2
+episode: 559   episode steps: 1000  reward: 9662.2
+------------------------------------------------------------
+Num steps: 560000  reward: 9991.6
+------------------------------------------------------------
+episode: 560   episode steps: 1000  reward: 9799.6
+episode: 561   episode steps: 1000  reward: 9721.2
+episode: 562   episode steps: 1000  reward: 9769.0
+episode: 563   episode steps: 1000  reward: 9538.0
+episode: 564   episode steps: 1000  reward: 9790.5
+episode: 565   episode steps: 1000  reward: 9703.8
+episode: 566   episode steps: 1000  reward: 9801.4
+episode: 567   episode steps: 1000  reward: 9885.0
+episode: 568   episode steps: 1000  reward: 9770.6
+episode: 569   episode steps: 1000  reward: 9636.4
+------------------------------------------------------------
+Num steps: 570000  reward: 10027.7
+------------------------------------------------------------
+episode: 570   episode steps: 1000  reward: 9851.8
+episode: 571   episode steps: 1000  reward: 9890.3
+episode: 572   episode steps: 1000  reward: 9863.1
+episode: 573   episode steps: 1000  reward: 9638.2
+episode: 574   episode steps: 1000  reward: 9664.2
+episode: 575   episode steps: 1000  reward: 9683.7
+episode: 576   episode steps: 1000  reward: 9786.0
+episode: 577   episode steps: 1000  reward: 9842.4
+episode: 578   episode steps: 1000  reward: 9946.6
+episode: 579   episode steps: 1000  reward: 9854.4
+------------------------------------------------------------
+Num steps: 580000  reward: 9856.4
+------------------------------------------------------------
+episode: 580   episode steps: 1000  reward: 9875.6
+episode: 581   episode steps: 1000  reward: 9835.6
+episode: 582   episode steps: 1000  reward: 9713.0
+episode: 583   episode steps: 1000  reward: 9587.0
+episode: 584   episode steps: 1000  reward: 9934.1
+episode: 585   episode steps: 1000  reward: 9729.2
+episode: 586   episode steps: 1000  reward: 9722.7
+episode: 587   episode steps: 1000  reward: 9873.3
+episode: 588   episode steps: 1000  reward: 10188.0
+episode: 589   episode steps: 1000  reward: 9943.2
+------------------------------------------------------------
+Num steps: 590000  reward: 10039.6
+------------------------------------------------------------
+episode: 590   episode steps: 1000  reward: 9839.1
+episode: 591   episode steps: 1000  reward: 9876.5
+episode: 592   episode steps: 1000  reward: 9884.6
+episode: 593   episode steps: 1000  reward: 9978.0
+episode: 594   episode steps: 1000  reward: 9835.3
+episode: 595   episode steps: 1000  reward: 9503.1
+episode: 596   episode steps: 1000  reward: 9875.6
+episode: 597   episode steps: 1000  reward: 9805.9
+episode: 598   episode steps: 1000  reward: 9835.9
+episode: 599   episode steps: 1000  reward: 9915.6
+------------------------------------------------------------
+Num steps: 600000  reward: 10037.1
+------------------------------------------------------------
+episode: 600   episode steps: 1000  reward: 9859.5
+episode: 601   episode steps: 1000  reward: 9779.8
+episode: 602   episode steps: 1000  reward: 9829.1
+episode: 603   episode steps: 1000  reward: 9778.1
+episode: 604   episode steps: 1000  reward: 10067.4
+episode: 605   episode steps: 1000  reward: 10105.0
+episode: 606   episode steps: 1000  reward: 9698.9
+episode: 607   episode steps: 1000  reward: 10104.3
+episode: 608   episode steps: 1000  reward: 9908.1
+episode: 609   episode steps: 1000  reward: 10059.9
+------------------------------------------------------------
+Num steps: 610000  reward: 10260.8
+------------------------------------------------------------
+episode: 610   episode steps: 1000  reward: 9851.0
+episode: 611   episode steps: 1000  reward: 9937.6
+episode: 612   episode steps: 1000  reward: 9935.9
+episode: 613   episode steps: 1000  reward: 10094.4
+episode: 614   episode steps: 1000  reward: 9879.5
+episode: 615   episode steps: 1000  reward: 9966.6
+episode: 616   episode steps: 1000  reward: 10146.0
+episode: 617   episode steps: 1000  reward: 10047.1
+episode: 618   episode steps: 1000  reward: 9856.7
+episode: 619   episode steps: 1000  reward: 9739.4
+------------------------------------------------------------
+Num steps: 620000  reward: 10306.8
+------------------------------------------------------------
+episode: 620   episode steps: 1000  reward: 9942.4
+episode: 621   episode steps: 1000  reward: 9977.4
+episode: 622   episode steps: 1000  reward: 10135.3
+episode: 623   episode steps: 1000  reward: 9802.4
+episode: 624   episode steps: 1000  reward: 9937.3
+episode: 625   episode steps: 1000  reward: 9795.0
+episode: 626   episode steps: 1000  reward: 10052.0
+episode: 627   episode steps: 1000  reward: 10063.3
+episode: 628   episode steps: 1000  reward: 10003.0
+episode: 629   episode steps: 1000  reward: 10137.4
+------------------------------------------------------------
+Num steps: 630000  reward: 10400.1
+------------------------------------------------------------
+episode: 630   episode steps: 1000  reward: 10286.7
+episode: 631   episode steps: 1000  reward: 10097.9
+episode: 632   episode steps: 1000  reward: 9869.7
+episode: 633   episode steps: 1000  reward: 9736.0
+episode: 634   episode steps: 1000  reward: 10035.4
+episode: 635   episode steps: 1000  reward: 10223.9
+episode: 636   episode steps: 1000  reward: 10031.0
+episode: 637   episode steps: 1000  reward: 10150.6
+episode: 638   episode steps: 1000  reward: 10142.5
+episode: 639   episode steps: 1000  reward: 10217.3
+------------------------------------------------------------
+Num steps: 640000  reward: 10499.9
+------------------------------------------------------------
+episode: 640   episode steps: 1000  reward: 9860.8
+episode: 641   episode steps: 1000  reward: 9950.2
+episode: 642   episode steps: 1000  reward: 10262.6
+episode: 643   episode steps: 1000  reward: 10052.6
+episode: 644   episode steps: 1000  reward: 9850.8
+episode: 645   episode steps: 1000  reward: 10267.4
+episode: 646   episode steps: 1000  reward: 10192.3
+episode: 647   episode steps: 1000  reward: 10007.5
+episode: 648   episode steps: 1000  reward: 9965.0
+episode: 649   episode steps: 1000  reward: 9983.5
+------------------------------------------------------------
+Num steps: 650000  reward: 10340.1
+------------------------------------------------------------
+episode: 650   episode steps: 1000  reward: 10054.3
+episode: 651   episode steps: 1000  reward: 10178.0
+episode: 652   episode steps: 1000  reward: 9996.9
+episode: 653   episode steps: 1000  reward: 10047.4
+episode: 654   episode steps: 1000  reward: 10165.4
+episode: 655   episode steps: 1000  reward: 10235.7
+episode: 656   episode steps: 1000  reward: 9939.4
+episode: 657   episode steps: 1000  reward: 10113.7
+episode: 658   episode steps: 1000  reward: 9963.8
+episode: 659   episode steps: 1000  reward: 10061.6
+------------------------------------------------------------
+Num steps: 660000  reward: 10371.6
+------------------------------------------------------------
+episode: 660   episode steps: 1000  reward: 9981.6
+episode: 661   episode steps: 1000  reward: 10115.7
+episode: 662   episode steps: 1000  reward: 9821.7
+episode: 663   episode steps: 1000  reward: 10045.8
+episode: 664   episode steps: 1000  reward: 10274.6
+episode: 665   episode steps: 1000  reward: 10182.7
+episode: 666   episode steps: 1000  reward: 10331.7
+episode: 667   episode steps: 1000  reward: 10368.1
+episode: 668   episode steps: 1000  reward: 10448.3
+episode: 669   episode steps: 1000  reward: 10305.4
+------------------------------------------------------------
+Num steps: 670000  reward: 10473.7
+------------------------------------------------------------
+episode: 670   episode steps: 1000  reward: 10086.0
+episode: 671   episode steps: 1000  reward: 10143.5
+episode: 672   episode steps: 1000  reward: 10125.8
+episode: 673   episode steps: 1000  reward: 10197.6
+episode: 674   episode steps: 1000  reward: 10146.3
+episode: 675   episode steps: 1000  reward: 10148.7
+episode: 676   episode steps: 1000  reward: 10248.7
+episode: 677   episode steps: 1000  reward: 10090.2
+episode: 678   episode steps: 1000  reward: 9772.5
+episode: 679   episode steps: 1000  reward: 10190.6
+------------------------------------------------------------
+Num steps: 680000  reward: 10629.2
+------------------------------------------------------------
+episode: 680   episode steps: 1000  reward: 10045.0
+episode: 681   episode steps: 1000  reward: 10185.7
+episode: 682   episode steps: 1000  reward: 10126.8
+episode: 683   episode steps: 1000  reward: 10303.1
+episode: 684   episode steps: 1000  reward: 10292.0
+episode: 685   episode steps: 1000  reward: 9906.0
+episode: 686   episode steps: 1000  reward: 10384.4
+episode: 687   episode steps: 1000  reward: 10319.0
+episode: 688   episode steps: 1000  reward: 10101.8
+episode: 689   episode steps: 1000  reward: 10321.3
+------------------------------------------------------------
+Num steps: 690000  reward: 10621.6
+------------------------------------------------------------
+episode: 690   episode steps: 1000  reward: 10040.5
+episode: 691   episode steps: 1000  reward: 10236.4
+episode: 692   episode steps: 1000  reward: 10085.9
+episode: 693   episode steps: 1000  reward: 10399.2
+episode: 694   episode steps: 1000  reward: 9872.6
+episode: 695   episode steps: 1000  reward: 10270.5
+episode: 696   episode steps: 1000  reward: 10021.2
+episode: 697   episode steps: 1000  reward: 10287.2
+episode: 698   episode steps: 1000  reward: 10218.8
+episode: 699   episode steps: 1000  reward: 10283.3
+------------------------------------------------------------
+Num steps: 700000  reward: 10684.4
+------------------------------------------------------------
+episode: 700   episode steps: 1000  reward: 10219.2
+episode: 701   episode steps: 1000  reward: 10248.7
+episode: 702   episode steps: 1000  reward: 10049.0
+episode: 703   episode steps: 1000  reward: 10338.0
+episode: 704   episode steps: 1000  reward: 10150.2
+episode: 705   episode steps: 1000  reward: 10077.4
+episode: 706   episode steps: 1000  reward: 10339.0
+episode: 707   episode steps: 1000  reward: 10489.7
+episode: 708   episode steps: 1000  reward: 10566.2
+episode: 709   episode steps: 1000  reward: 10441.7
+------------------------------------------------------------
+Num steps: 710000  reward: 10638.4
+------------------------------------------------------------
+episode: 710   episode steps: 1000  reward: 10212.7
+episode: 711   episode steps: 1000  reward: 10221.3
+episode: 712   episode steps: 1000  reward: 10248.4
+episode: 713   episode steps: 1000  reward: 10324.5
+episode: 714   episode steps: 1000  reward: 10231.3
+episode: 715   episode steps: 1000  reward: 10147.1
+episode: 716   episode steps: 1000  reward: 10108.7
+episode: 717   episode steps: 1000  reward: 10492.4
+episode: 718   episode steps: 1000  reward: 10290.4
+episode: 719   episode steps: 1000  reward: 10238.3
+------------------------------------------------------------
+Num steps: 720000  reward: 10692.1
+------------------------------------------------------------
+episode: 720   episode steps: 1000  reward: 10270.7
+episode: 721   episode steps: 1000  reward: 10470.6
+episode: 722   episode steps: 1000  reward: 10409.6
+episode: 723   episode steps: 1000  reward: 10233.5
+episode: 724   episode steps: 1000  reward: 10090.5
+episode: 725   episode steps: 1000  reward: 10243.1
+episode: 726   episode steps: 1000  reward: 10218.4
+episode: 727   episode steps: 1000  reward: 10341.1
+episode: 728   episode steps: 1000  reward: 10267.9
+episode: 729   episode steps: 1000  reward: 10448.9
+------------------------------------------------------------
+Num steps: 730000  reward: 10693.2
+------------------------------------------------------------
+episode: 730   episode steps: 1000  reward: 9983.7
+episode: 731   episode steps: 1000  reward: 10324.2
+episode: 732   episode steps: 1000  reward: 10309.3
+episode: 733   episode steps: 1000  reward: 9933.5
+episode: 734   episode steps: 1000  reward: 10618.8
+episode: 735   episode steps: 1000  reward: 10395.8
+episode: 736   episode steps: 1000  reward: 10262.8
+episode: 737   episode steps: 1000  reward: 10261.5
+episode: 738   episode steps: 1000  reward: 10324.0
+episode: 739   episode steps: 1000  reward: 10289.2
+------------------------------------------------------------
+Num steps: 740000  reward: 10718.6
+------------------------------------------------------------
+episode: 740   episode steps: 1000  reward: 10462.3
+episode: 741   episode steps: 1000  reward: 10327.0
+episode: 742   episode steps: 1000  reward: 10349.6
+episode: 743   episode steps: 1000  reward: 10426.3
+episode: 744   episode steps: 1000  reward: 10321.8
+episode: 745   episode steps: 1000  reward: 10275.2
+episode: 746   episode steps: 1000  reward: 10200.5
+episode: 747   episode steps: 1000  reward: 10412.3
+episode: 748   episode steps: 1000  reward: 10181.1
+episode: 749   episode steps: 1000  reward: 10399.1
+------------------------------------------------------------
+Num steps: 750000  reward: 10771.6
+------------------------------------------------------------
+episode: 750   episode steps: 1000  reward: 10210.7
+episode: 751   episode steps: 1000  reward: 10283.0
+episode: 752   episode steps: 1000  reward: 10400.8
+episode: 753   episode steps: 1000  reward: 10141.3
+episode: 754   episode steps: 1000  reward: 10178.2
+episode: 755   episode steps: 1000  reward: 10386.2
+episode: 756   episode steps: 1000  reward: 10381.2
+episode: 757   episode steps: 1000  reward: 10402.4
+episode: 758   episode steps: 1000  reward: 10387.0
+episode: 759   episode steps: 1000  reward: 10551.1
+------------------------------------------------------------
+Num steps: 760000  reward: 10564.9
+------------------------------------------------------------
+episode: 760   episode steps: 1000  reward: 10140.2
+episode: 761   episode steps: 1000  reward: 10193.1
+episode: 762   episode steps: 1000  reward: 10339.9
+episode: 763   episode steps: 1000  reward: 10019.9
+episode: 764   episode steps: 1000  reward: 10675.8
+episode: 765   episode steps: 1000  reward: 10391.9
+episode: 766   episode steps: 1000  reward: 10271.9
+episode: 767   episode steps: 1000  reward: 10583.7
+episode: 768   episode steps: 1000  reward: 10563.8
+episode: 769   episode steps: 1000  reward: 10343.6
+------------------------------------------------------------
+Num steps: 770000  reward: 10743.5
+------------------------------------------------------------
+episode: 770   episode steps: 1000  reward: 10503.4
+episode: 771   episode steps: 1000  reward: 10565.7
+episode: 772   episode steps: 1000  reward: 10192.0
+episode: 773   episode steps: 1000  reward: 10466.7
+episode: 774   episode steps: 1000  reward: 10381.6
+episode: 775   episode steps: 1000  reward: 10490.0
+episode: 776   episode steps: 1000  reward: 10577.0
+episode: 777   episode steps: 1000  reward: 10477.8
+episode: 778   episode steps: 1000  reward: 10493.2
+episode: 779   episode steps: 1000  reward: 10509.6
+------------------------------------------------------------
+Num steps: 780000  reward: 10841.6
+------------------------------------------------------------
+episode: 780   episode steps: 1000  reward: 10527.1
+episode: 781   episode steps: 1000  reward: 10246.6
+episode: 782   episode steps: 1000  reward: 10639.6
+episode: 783   episode steps: 1000  reward: 10565.5
+episode: 784   episode steps: 1000  reward: 10417.3
+episode: 785   episode steps: 1000  reward: 10550.2
+episode: 786   episode steps: 1000  reward: 1365.0
+episode: 787   episode steps: 1000  reward: 10417.2
+episode: 788   episode steps: 1000  reward: 10457.1
+episode: 789   episode steps: 1000  reward: 10346.5
+------------------------------------------------------------
+Num steps: 790000  reward: 10790.7
+------------------------------------------------------------
+episode: 790   episode steps: 1000  reward: 10318.4
+episode: 791   episode steps: 1000  reward: 10421.1
+episode: 792   episode steps: 1000  reward: 10527.8
+episode: 793   episode steps: 1000  reward: 10464.7
+episode: 794   episode steps: 1000  reward: 10532.0
+episode: 795   episode steps: 1000  reward: 10432.6
+episode: 796   episode steps: 1000  reward: 10409.6
+episode: 797   episode steps: 1000  reward: 10472.0
+episode: 798   episode steps: 1000  reward: 10416.3
+episode: 799   episode steps: 1000  reward: 10542.5
+------------------------------------------------------------
+Num steps: 800000  reward: 10944.9
+------------------------------------------------------------
+episode: 800   episode steps: 1000  reward: 10550.5
+episode: 801   episode steps: 1000  reward: 10612.7
+episode: 802   episode steps: 1000  reward: 9192.7
+episode: 803   episode steps: 1000  reward: 10103.9
+episode: 804   episode steps: 1000  reward: 10380.8
+episode: 805   episode steps: 1000  reward: 10559.1
+episode: 806   episode steps: 1000  reward: 10398.5
+episode: 807   episode steps: 1000  reward: 10643.3
+episode: 808   episode steps: 1000  reward: 10696.5
+episode: 809   episode steps: 1000  reward: 10525.9
+------------------------------------------------------------
+Num steps: 810000  reward: 10623.2
+------------------------------------------------------------
+episode: 810   episode steps: 1000  reward: 10462.5
+episode: 811   episode steps: 1000  reward: 10564.5
+episode: 812   episode steps: 1000  reward: 10777.0
+episode: 813   episode steps: 1000  reward: 10371.1
+episode: 814   episode steps: 1000  reward: 10245.0
+episode: 815   episode steps: 1000  reward: 10367.6
+episode: 816   episode steps: 1000  reward: 10816.5
+episode: 817   episode steps: 1000  reward: 10610.5
+episode: 818   episode steps: 1000  reward: 10349.5
+episode: 819   episode steps: 1000  reward: 10241.5
+------------------------------------------------------------
+Num steps: 820000  reward: 10880.7
+------------------------------------------------------------
+episode: 820   episode steps: 1000  reward: 10568.0
+episode: 821   episode steps: 1000  reward: 10522.7
+episode: 822   episode steps: 1000  reward: 10571.2
+episode: 823   episode steps: 1000  reward: 10622.5
+episode: 824   episode steps: 1000  reward: 10205.2
+episode: 825   episode steps: 1000  reward: 10301.1
+episode: 826   episode steps: 1000  reward: 10431.9
+episode: 827   episode steps: 1000  reward: 10396.3
+episode: 828   episode steps: 1000  reward: 10681.7
+episode: 829   episode steps: 1000  reward: 10439.4
+------------------------------------------------------------
+Num steps: 830000  reward: 11033.7
+------------------------------------------------------------
+episode: 830   episode steps: 1000  reward: 10386.4
+episode: 831   episode steps: 1000  reward: 10525.7
+episode: 832   episode steps: 1000  reward: 10478.9
+episode: 833   episode steps: 1000  reward: 10636.9
+episode: 834   episode steps: 1000  reward: 10586.4
+episode: 835   episode steps: 1000  reward: 10489.1
+episode: 836   episode steps: 1000  reward: 10552.6
+episode: 837   episode steps: 1000  reward: 10697.0
+episode: 838   episode steps: 1000  reward: 10621.9
+episode: 839   episode steps: 1000  reward: 10461.2
+------------------------------------------------------------
+Num steps: 840000  reward: 10870.3
+------------------------------------------------------------
+episode: 840   episode steps: 1000  reward: 10377.3
+episode: 841   episode steps: 1000  reward: 10704.6
+episode: 842   episode steps: 1000  reward: 10562.5
+episode: 843   episode steps: 1000  reward: 10411.5
+episode: 844   episode steps: 1000  reward: 10565.9
+episode: 845   episode steps: 1000  reward: 10744.9
+episode: 846   episode steps: 1000  reward: 10559.2
+episode: 847   episode steps: 1000  reward: 10773.7
+episode: 848   episode steps: 1000  reward: 10667.7
+episode: 849   episode steps: 1000  reward: 10382.8
+------------------------------------------------------------
+Num steps: 850000  reward: 10975.8
+------------------------------------------------------------
+episode: 850   episode steps: 1000  reward: 10484.6
+episode: 851   episode steps: 1000  reward: 10778.1
+episode: 852   episode steps: 1000  reward: 10343.4
+episode: 853   episode steps: 1000  reward: 10435.9
+episode: 854   episode steps: 1000  reward: 10753.0
+episode: 855   episode steps: 1000  reward: 10554.8
+episode: 856   episode steps: 1000  reward: 10494.2
+episode: 857   episode steps: 1000  reward: 10609.0
+episode: 858   episode steps: 1000  reward: 10483.2
+episode: 859   episode steps: 1000  reward: 10697.4
+------------------------------------------------------------
+Num steps: 860000  reward: 10982.1
+------------------------------------------------------------
+episode: 860   episode steps: 1000  reward: 10405.8
+episode: 861   episode steps: 1000  reward: 10599.5
+episode: 862   episode steps: 1000  reward: 10697.2
+episode: 863   episode steps: 1000  reward: 10439.3
+episode: 864   episode steps: 1000  reward: 10727.4
+episode: 865   episode steps: 1000  reward: 10382.5
+episode: 866   episode steps: 1000  reward: 10498.7
+episode: 867   episode steps: 1000  reward: 10569.3
+episode: 868   episode steps: 1000  reward: 10636.2
+episode: 869   episode steps: 1000  reward: 10447.1
+------------------------------------------------------------
+Num steps: 870000  reward: 10915.0
+------------------------------------------------------------
+episode: 870   episode steps: 1000  reward: 10735.2
+episode: 871   episode steps: 1000  reward: 10776.7
+episode: 872   episode steps: 1000  reward: 10675.4
+episode: 873   episode steps: 1000  reward: 10694.0
+episode: 874   episode steps: 1000  reward: 10821.7
+episode: 875   episode steps: 1000  reward: 10630.5
+episode: 876   episode steps: 1000  reward: 10438.7
+episode: 877   episode steps: 1000  reward: 10481.1
+episode: 878   episode steps: 1000  reward: 10511.1
+episode: 879   episode steps: 1000  reward: 10631.3
+------------------------------------------------------------
+Num steps: 880000  reward: 11023.9
+------------------------------------------------------------
+episode: 880   episode steps: 1000  reward: 10638.5
+episode: 881   episode steps: 1000  reward: 10625.0
+episode: 882   episode steps: 1000  reward: 10636.7
+episode: 883   episode steps: 1000  reward: 10891.6
+episode: 884   episode steps: 1000  reward: 10573.9
+episode: 885   episode steps: 1000  reward: 10464.5
+episode: 886   episode steps: 1000  reward: 10799.0
+episode: 887   episode steps: 1000  reward: 10657.2
+episode: 888   episode steps: 1000  reward: 10492.2
+episode: 889   episode steps: 1000  reward: 10738.0
+------------------------------------------------------------
+Num steps: 890000  reward: 11002.8
+------------------------------------------------------------
+episode: 890   episode steps: 1000  reward: 10616.7
+episode: 891   episode steps: 1000  reward: 10847.5
+episode: 892   episode steps: 1000  reward: 10775.0
+episode: 893   episode steps: 1000  reward: 10716.2
+episode: 894   episode steps: 1000  reward: 10924.8
+episode: 895   episode steps: 1000  reward: 10714.2
+episode: 896   episode steps: 1000  reward: 10911.4
+episode: 897   episode steps: 1000  reward: 10766.6
+episode: 898   episode steps: 1000  reward: 10531.9
+episode: 899   episode steps: 1000  reward: 10647.9
+------------------------------------------------------------
+Num steps: 900000  reward: 11214.8
+------------------------------------------------------------
+episode: 900   episode steps: 1000  reward: 10647.9
+episode: 901   episode steps: 1000  reward: 10679.7
+episode: 902   episode steps: 1000  reward: 10332.2
+episode: 903   episode steps: 1000  reward: 10719.4
+episode: 904   episode steps: 1000  reward: 10421.9
+episode: 905   episode steps: 1000  reward: 10521.1
+episode: 906   episode steps: 1000  reward: 10651.1
+episode: 907   episode steps: 1000  reward: 10712.2
+episode: 908   episode steps: 1000  reward: 10496.5
+episode: 909   episode steps: 1000  reward: 10500.7
+------------------------------------------------------------
+Num steps: 910000  reward: 11195.2
+------------------------------------------------------------
+episode: 910   episode steps: 1000  reward: 10944.2
+episode: 911   episode steps: 1000  reward: 10752.4
+episode: 912   episode steps: 1000  reward: 10463.7
+episode: 913   episode steps: 1000  reward: 10595.1
+episode: 914   episode steps: 1000  reward: 10791.7
+episode: 915   episode steps: 1000  reward: 10816.2
+episode: 916   episode steps: 1000  reward: 10732.3
+episode: 917   episode steps: 1000  reward: 10822.7
+episode: 918   episode steps: 1000  reward: 10736.2
+episode: 919   episode steps: 1000  reward: 10797.7
+------------------------------------------------------------
+Num steps: 920000  reward: 11083.7
+------------------------------------------------------------
+episode: 920   episode steps: 1000  reward: 10876.1
+episode: 921   episode steps: 1000  reward: 10726.2
+episode: 922   episode steps: 1000  reward: 10833.4
+episode: 923   episode steps: 1000  reward: 10799.9
+episode: 924   episode steps: 1000  reward: 10807.6
+episode: 925   episode steps: 1000  reward: 10601.6
+episode: 926   episode steps: 1000  reward: 10741.0
+episode: 927   episode steps: 1000  reward: 10696.7
+episode: 928   episode steps: 1000  reward: 10590.0
+episode: 929   episode steps: 1000  reward: 10865.2
+------------------------------------------------------------
+Num steps: 930000  reward: 11231.6
+------------------------------------------------------------
+episode: 930   episode steps: 1000  reward: 10750.3
+episode: 931   episode steps: 1000  reward: 10664.4
+episode: 932   episode steps: 1000  reward: 10504.9
+episode: 933   episode steps: 1000  reward: 10856.9
+episode: 934   episode steps: 1000  reward: 10562.8
+episode: 935   episode steps: 1000  reward: 10350.2
+episode: 936   episode steps: 1000  reward: 10581.5
+episode: 937   episode steps: 1000  reward: 10572.7
+episode: 938   episode steps: 1000  reward: 10410.9
+episode: 939   episode steps: 1000  reward: 10795.0
+------------------------------------------------------------
+Num steps: 940000  reward: 11199.0
+------------------------------------------------------------
+episode: 940   episode steps: 1000  reward: 10064.1
+episode: 941   episode steps: 1000  reward: 10926.2
+episode: 942   episode steps: 1000  reward: 10557.6
+episode: 943   episode steps: 1000  reward: 10942.3
+episode: 944   episode steps: 1000  reward: 10957.8
+episode: 945   episode steps: 1000  reward: 10622.2
+episode: 946   episode steps: 1000  reward: 10441.0
+episode: 947   episode steps: 1000  reward: 10675.4
+episode: 948   episode steps: 1000  reward: 10739.3
+episode: 949   episode steps: 1000  reward: 10628.2
+------------------------------------------------------------
+Num steps: 950000  reward: 10832.1
+------------------------------------------------------------
+episode: 950   episode steps: 1000  reward: 10723.1
+episode: 951   episode steps: 1000  reward: 10648.0
+episode: 952   episode steps: 1000  reward: 10972.3
+episode: 953   episode steps: 1000  reward: 10918.9
+episode: 954   episode steps: 1000  reward: 10560.2
+episode: 955   episode steps: 1000  reward: 10527.5
+episode: 956   episode steps: 1000  reward: 10805.7
+episode: 957   episode steps: 1000  reward: 11095.2
+episode: 958   episode steps: 1000  reward: 10864.1
+episode: 959   episode steps: 1000  reward: 10696.5
+------------------------------------------------------------
+Num steps: 960000  reward: 11170.2
+------------------------------------------------------------
+episode: 960   episode steps: 1000  reward: 10977.5
+episode: 961   episode steps: 1000  reward: 10733.6
+episode: 962   episode steps: 1000  reward: 10896.9
+episode: 963   episode steps: 1000  reward: 10768.9
+episode: 964   episode steps: 1000  reward: 10645.4
+episode: 965   episode steps: 1000  reward: 10641.1
+episode: 966   episode steps: 1000  reward: 10821.3
+episode: 967   episode steps: 1000  reward: 10780.5
+episode: 968   episode steps: 1000  reward: 11067.3
+episode: 969   episode steps: 1000  reward: 10933.3
+------------------------------------------------------------
+Num steps: 970000  reward: 11231.1
+------------------------------------------------------------
+episode: 970   episode steps: 1000  reward: 11050.5
+episode: 971   episode steps: 1000  reward: 10886.1
+episode: 972   episode steps: 1000  reward: 10776.9
+episode: 973   episode steps: 1000  reward: 10573.7
+episode: 974   episode steps: 1000  reward: 10839.5
+episode: 975   episode steps: 1000  reward: 10719.6
+episode: 976   episode steps: 1000  reward: 10806.7
+episode: 977   episode steps: 1000  reward: 11006.8
+episode: 978   episode steps: 1000  reward: 10938.3
+episode: 979   episode steps: 1000  reward: 10701.2
+------------------------------------------------------------
+Num steps: 980000  reward: 11298.7
+------------------------------------------------------------
+episode: 980   episode steps: 1000  reward: 10796.4
+episode: 981   episode steps: 1000  reward: 10777.2
+episode: 982   episode steps: 1000  reward: 10781.1
+episode: 983   episode steps: 1000  reward: 11068.9
+episode: 984   episode steps: 1000  reward: 10703.9
+episode: 985   episode steps: 1000  reward: 10650.5
+episode: 986   episode steps: 1000  reward: 10973.4
+episode: 987   episode steps: 1000  reward: 10917.3
+episode: 988   episode steps: 1000  reward: 11065.0
+episode: 989   episode steps: 1000  reward: 10850.7
+------------------------------------------------------------
+Num steps: 990000  reward: 11325.5
+------------------------------------------------------------
+episode: 990   episode steps: 1000  reward: 10898.3
+episode: 991   episode steps: 1000  reward: 10891.8
+episode: 992   episode steps: 1000  reward: 10476.2
+episode: 993   episode steps: 1000  reward: 10651.2
+episode: 994   episode steps: 1000  reward: 10872.6
+episode: 995   episode steps: 1000  reward: 10745.8
+episode: 996   episode steps: 1000  reward: 10920.8
+episode: 997   episode steps: 1000  reward: 10819.7
+episode: 998   episode steps: 1000  reward: 10642.6
+episode: 999   episode steps: 1000  reward: 11219.2
+------------------------------------------------------------
+Num steps: 1000000  reward: 11073.2
+------------------------------------------------------------
+episode: 1000  episode steps: 1000  reward: 10774.5
+episode: 1001  episode steps: 1000  reward: 10841.4
+episode: 1002  episode steps: 1000  reward: 10566.9
+episode: 1003  episode steps: 1000  reward: 11035.7
+episode: 1004  episode steps: 1000  reward: 10923.5
+episode: 1005  episode steps: 1000  reward: 10729.6
+episode: 1006  episode steps: 1000  reward: 11049.8
+episode: 1007  episode steps: 1000  reward: 11234.2
+episode: 1008  episode steps: 1000  reward: 10971.8
+episode: 1009  episode steps: 1000  reward: 10941.1
+------------------------------------------------------------
+Num steps: 1010000  reward: 11286.2
+------------------------------------------------------------
+episode: 1010  episode steps: 1000  reward: 10829.7
+episode: 1011  episode steps: 1000  reward: 11020.0
+episode: 1012  episode steps: 1000  reward: 11059.6
+episode: 1013  episode steps: 1000  reward: 11015.9
+episode: 1014  episode steps: 1000  reward: 10727.1
+episode: 1015  episode steps: 1000  reward: 11030.5
+episode: 1016  episode steps: 1000  reward: 10971.6
+episode: 1017  episode steps: 1000  reward: 10776.0
+episode: 1018  episode steps: 1000  reward: 10880.3
+episode: 1019  episode steps: 1000  reward: 10955.2
+------------------------------------------------------------
+Num steps: 1020000  reward: 11343.0
+------------------------------------------------------------
+episode: 1020  episode steps: 1000  reward: 10887.5
+episode: 1021  episode steps: 1000  reward: 11011.6
+episode: 1022  episode steps: 1000  reward: 11017.1
+episode: 1023  episode steps: 1000  reward: 10990.0
+episode: 1024  episode steps: 1000  reward: 11024.0
+episode: 1025  episode steps: 1000  reward: 11200.2
+episode: 1026  episode steps: 1000  reward: 11162.0
+episode: 1027  episode steps: 1000  reward: 10983.5
+episode: 1028  episode steps: 1000  reward: 11017.9
+episode: 1029  episode steps: 1000  reward: 10909.6
+------------------------------------------------------------
+Num steps: 1030000  reward: 11428.4
+------------------------------------------------------------
+episode: 1030  episode steps: 1000  reward: 10481.1
+episode: 1031  episode steps: 1000  reward: 11009.0
+episode: 1032  episode steps: 1000  reward: 10969.7
+episode: 1033  episode steps: 1000  reward: 10860.4
+episode: 1034  episode steps: 1000  reward: 11177.7
+episode: 1035  episode steps: 1000  reward: 10810.3
+episode: 1036  episode steps: 1000  reward: 11074.8
+episode: 1037  episode steps: 1000  reward: 10608.1
+episode: 1038  episode steps: 1000  reward: 10852.9
+episode: 1039  episode steps: 1000  reward: 10816.4
+------------------------------------------------------------
+Num steps: 1040000  reward: 11418.1
+------------------------------------------------------------
+episode: 1040  episode steps: 1000  reward: 10830.8
+episode: 1041  episode steps: 1000  reward: 11156.9
+episode: 1042  episode steps: 1000  reward: 11017.9
+episode: 1043  episode steps: 1000  reward: 10933.5
+episode: 1044  episode steps: 1000  reward: 10931.3
+episode: 1045  episode steps: 1000  reward: 11068.1
+episode: 1046  episode steps: 1000  reward: 11014.3
+episode: 1047  episode steps: 1000  reward: 11198.7
+episode: 1048  episode steps: 1000  reward: 11018.9
+episode: 1049  episode steps: 1000  reward: 11151.0
+------------------------------------------------------------
+Num steps: 1050000  reward: 11454.0
+------------------------------------------------------------
+episode: 1050  episode steps: 1000  reward: 11105.1
+episode: 1051  episode steps: 1000  reward: 11233.2
+episode: 1052  episode steps: 1000  reward: 11105.7
+episode: 1053  episode steps: 1000  reward: 10952.9
+episode: 1054  episode steps: 1000  reward: 11133.4
+episode: 1055  episode steps: 1000  reward: 11350.5
+episode: 1056  episode steps: 1000  reward: 10863.5
+episode: 1057  episode steps: 1000  reward: 11102.2
+episode: 1058  episode steps: 1000  reward: 10990.0
+episode: 1059  episode steps: 1000  reward: 10803.8
+------------------------------------------------------------
+Num steps: 1060000  reward: 11245.8
+------------------------------------------------------------
+episode: 1060  episode steps: 1000  reward: 11055.6
+episode: 1061  episode steps: 1000  reward: 11058.0
+episode: 1062  episode steps: 1000  reward: 11104.1
+episode: 1063  episode steps: 1000  reward: 10929.8
+episode: 1064  episode steps: 1000  reward: 11217.8
+episode: 1065  episode steps: 1000  reward: 11028.0
+episode: 1066  episode steps: 1000  reward: 10890.9
+episode: 1067  episode steps: 1000  reward: 10936.3
+episode: 1068  episode steps: 1000  reward: 11071.2
+episode: 1069  episode steps: 1000  reward: 11265.7
+------------------------------------------------------------
+Num steps: 1070000  reward: 11322.5
+------------------------------------------------------------
+episode: 1070  episode steps: 1000  reward: 11057.6
+episode: 1071  episode steps: 1000  reward: 10953.9
+episode: 1072  episode steps: 1000  reward: 11259.0
+episode: 1073  episode steps: 1000  reward: 10894.1
+episode: 1074  episode steps: 1000  reward: 11045.9
+episode: 1075  episode steps: 1000  reward: 11030.2
+episode: 1076  episode steps: 1000  reward: 10933.9
+episode: 1077  episode steps: 1000  reward: 11038.7
+episode: 1078  episode steps: 1000  reward: 10973.6
+episode: 1079  episode steps: 1000  reward: 10687.8
+------------------------------------------------------------
+Num steps: 1080000  reward: 11416.2
+------------------------------------------------------------
+episode: 1080  episode steps: 1000  reward: 11078.9
+episode: 1081  episode steps: 1000  reward: 10901.5
+episode: 1082  episode steps: 1000  reward: 10799.5
+episode: 1083  episode steps: 1000  reward: 11039.7
+episode: 1084  episode steps: 1000  reward: 11074.6
+episode: 1085  episode steps: 1000  reward: 11284.8
+episode: 1086  episode steps: 1000  reward: 11043.6
+episode: 1087  episode steps: 1000  reward: 10807.0
+episode: 1088  episode steps: 1000  reward: 11037.8
+episode: 1089  episode steps: 1000  reward: 10974.2
+------------------------------------------------------------
+Num steps: 1090000  reward: 11377.2
+------------------------------------------------------------
+episode: 1090  episode steps: 1000  reward: 10976.7
+episode: 1091  episode steps: 1000  reward: 11109.9
+episode: 1092  episode steps: 1000  reward: 11210.9
+episode: 1093  episode steps: 1000  reward: 11330.7
+episode: 1094  episode steps: 1000  reward: 11151.1
+episode: 1095  episode steps: 1000  reward: 11219.1
+episode: 1096  episode steps: 1000  reward: 10958.2
+episode: 1097  episode steps: 1000  reward: 10881.7
+episode: 1098  episode steps: 1000  reward: 11313.5
+episode: 1099  episode steps: 1000  reward: 11420.2
+------------------------------------------------------------
+Num steps: 1100000  reward: 11617.8
+------------------------------------------------------------
+episode: 1100  episode steps: 1000  reward: 11244.1
+episode: 1101  episode steps: 1000  reward: 11362.0
+episode: 1102  episode steps: 1000  reward: 11323.5
+episode: 1103  episode steps: 1000  reward: 11273.0
+episode: 1104  episode steps: 1000  reward: 11167.5
+episode: 1105  episode steps: 1000  reward: 10980.6
+episode: 1106  episode steps: 1000  reward: 11135.3
+episode: 1107  episode steps: 1000  reward: 11158.9
+episode: 1108  episode steps: 1000  reward: 11243.0
+episode: 1109  episode steps: 1000  reward: 11251.9
+------------------------------------------------------------
+Num steps: 1110000  reward: 11588.8
+------------------------------------------------------------
+episode: 1110  episode steps: 1000  reward: 10930.0
+episode: 1111  episode steps: 1000  reward: 11076.4
+episode: 1112  episode steps: 1000  reward: 11102.0
+episode: 1113  episode steps: 1000  reward: 11281.5
+episode: 1114  episode steps: 1000  reward: 11020.0
+episode: 1115  episode steps: 1000  reward: 11228.6
+episode: 1116  episode steps: 1000  reward: 10973.0
+episode: 1117  episode steps: 1000  reward: 11207.7
+episode: 1118  episode steps: 1000  reward: 11432.4
+episode: 1119  episode steps: 1000  reward: 10959.8
+------------------------------------------------------------
+Num steps: 1120000  reward: 11709.9
+------------------------------------------------------------
+episode: 1120  episode steps: 1000  reward: 11015.8
+episode: 1121  episode steps: 1000  reward: 11091.4
+episode: 1122  episode steps: 1000  reward: 11196.9
+episode: 1123  episode steps: 1000  reward: 11359.4
+episode: 1124  episode steps: 1000  reward: 11194.4
+episode: 1125  episode steps: 1000  reward: 11317.4
+episode: 1126  episode steps: 1000  reward: 11041.8
+episode: 1127  episode steps: 1000  reward: 11146.3
+episode: 1128  episode steps: 1000  reward: 11425.3
+episode: 1129  episode steps: 1000  reward: 10912.4
+------------------------------------------------------------
+Num steps: 1130000  reward: 11644.9
+------------------------------------------------------------
+episode: 1130  episode steps: 1000  reward: 11402.6
+episode: 1131  episode steps: 1000  reward: 11414.6
+episode: 1132  episode steps: 1000  reward: 11016.0
+episode: 1133  episode steps: 1000  reward: 11075.3
+episode: 1134  episode steps: 1000  reward: 11093.6
+episode: 1135  episode steps: 1000  reward: 11299.3
+episode: 1136  episode steps: 1000  reward: 11347.8
+episode: 1137  episode steps: 1000  reward: 11045.8
+episode: 1138  episode steps: 1000  reward: 11398.3
+episode: 1139  episode steps: 1000  reward: 11162.7
+------------------------------------------------------------
+Num steps: 1140000  reward: 11612.9
+------------------------------------------------------------
+episode: 1140  episode steps: 1000  reward: 11216.3
+episode: 1141  episode steps: 1000  reward: 11126.5
+episode: 1142  episode steps: 1000  reward: 11241.0
+episode: 1143  episode steps: 1000  reward: 11344.3
+episode: 1144  episode steps: 1000  reward: 11354.9
+episode: 1145  episode steps: 1000  reward: 11038.7
+episode: 1146  episode steps: 1000  reward: 11403.1
+episode: 1147  episode steps: 1000  reward: 11581.3
+episode: 1148  episode steps: 1000  reward: 11045.6
+episode: 1149  episode steps: 1000  reward: 11161.3
+------------------------------------------------------------
+Num steps: 1150000  reward: 11700.3
+------------------------------------------------------------
+episode: 1150  episode steps: 1000  reward: 11158.8
+episode: 1151  episode steps: 1000  reward: 11090.8
+episode: 1152  episode steps: 1000  reward: 11298.8
+episode: 1153  episode steps: 1000  reward: 11046.5
+episode: 1154  episode steps: 1000  reward: 11203.0
+episode: 1155  episode steps: 1000  reward: 11364.2
+episode: 1156  episode steps: 1000  reward: 11127.2
+episode: 1157  episode steps: 1000  reward: 11120.0
+episode: 1158  episode steps: 1000  reward: 11319.8
+episode: 1159  episode steps: 1000  reward: 11384.3
+------------------------------------------------------------
+Num steps: 1160000  reward: 11873.5
+------------------------------------------------------------
+episode: 1160  episode steps: 1000  reward: 11423.1
+episode: 1161  episode steps: 1000  reward: 10875.5
+episode: 1162  episode steps: 1000  reward: 11231.0
+episode: 1163  episode steps: 1000  reward: 11321.4
+episode: 1164  episode steps: 1000  reward: 11557.6
+episode: 1165  episode steps: 1000  reward: 11604.0
+episode: 1166  episode steps: 1000  reward: 11425.2
+episode: 1167  episode steps: 1000  reward: 11541.5
+episode: 1168  episode steps: 1000  reward: 11318.6
+episode: 1169  episode steps: 1000  reward: 11355.9
+------------------------------------------------------------
+Num steps: 1170000  reward: 11786.3
+------------------------------------------------------------
+episode: 1170  episode steps: 1000  reward: 11278.4
+episode: 1171  episode steps: 1000  reward: 11434.1
+episode: 1172  episode steps: 1000  reward: 11168.0
+episode: 1173  episode steps: 1000  reward: 11347.5
+episode: 1174  episode steps: 1000  reward: 11248.7
+episode: 1175  episode steps: 1000  reward: 11116.0
+episode: 1176  episode steps: 1000  reward: 11420.2
+episode: 1177  episode steps: 1000  reward: 11347.2
+episode: 1178  episode steps: 1000  reward: 11342.2
+episode: 1179  episode steps: 1000  reward: 4233.6
+------------------------------------------------------------
+Num steps: 1180000  reward: 11759.0
+------------------------------------------------------------
+episode: 1180  episode steps: 1000  reward: 11423.0
+episode: 1181  episode steps: 1000  reward: 11280.4
+episode: 1182  episode steps: 1000  reward: 11346.3
+episode: 1183  episode steps: 1000  reward: 11320.4
+episode: 1184  episode steps: 1000  reward: 11417.9
+episode: 1185  episode steps: 1000  reward: 11352.6
+episode: 1186  episode steps: 1000  reward: 11297.9
+episode: 1187  episode steps: 1000  reward: 11377.9
+episode: 1188  episode steps: 1000  reward: 11303.1
+episode: 1189  episode steps: 1000  reward: 11219.3
+------------------------------------------------------------
+Num steps: 1190000  reward: 11749.2
+------------------------------------------------------------
+episode: 1190  episode steps: 1000  reward: 11300.2
+episode: 1191  episode steps: 1000  reward: 11267.8
+episode: 1192  episode steps: 1000  reward: 11360.2
+episode: 1193  episode steps: 1000  reward: 11401.5
+episode: 1194  episode steps: 1000  reward: 11497.2
+episode: 1195  episode steps: 1000  reward: 11593.1
+episode: 1196  episode steps: 1000  reward: 11334.5
+episode: 1197  episode steps: 1000  reward: 11290.5
+episode: 1198  episode steps: 1000  reward: 11373.4
+episode: 1199  episode steps: 1000  reward: 11483.9
+------------------------------------------------------------
+Num steps: 1200000  reward: 11722.3
+------------------------------------------------------------
+episode: 1200  episode steps: 1000  reward: 11240.1
+episode: 1201  episode steps: 1000  reward: 11479.6
+episode: 1202  episode steps: 1000  reward: 11187.2
+episode: 1203  episode steps: 1000  reward: 11401.4
+episode: 1204  episode steps: 1000  reward: 11380.1
+episode: 1205  episode steps: 1000  reward: 11474.5
+episode: 1206  episode steps: 1000  reward: 11557.6
+episode: 1207  episode steps: 1000  reward: 11199.7
+episode: 1208  episode steps: 1000  reward: 10924.1
+episode: 1209  episode steps: 1000  reward: 10957.2
+------------------------------------------------------------
+Num steps: 1210000  reward: 4539.8
+------------------------------------------------------------
+episode: 1210  episode steps: 1000  reward: 10728.9
+episode: 1211  episode steps: 1000  reward: 10776.6
+episode: 1212  episode steps: 1000  reward: 10956.4
+episode: 1213  episode steps: 1000  reward: 11125.0
+episode: 1214  episode steps: 1000  reward: 11443.3
+episode: 1215  episode steps: 1000  reward: 11406.1
+episode: 1216  episode steps: 1000  reward: 11583.8
+episode: 1217  episode steps: 1000  reward: 11432.9
+episode: 1218  episode steps: 1000  reward: 11373.0
+episode: 1219  episode steps: 1000  reward: 8986.9
+------------------------------------------------------------
+Num steps: 1220000  reward: -93.3
+------------------------------------------------------------
+episode: 1220  episode steps: 1000  reward: 9621.3
+episode: 1221  episode steps: 1000  reward: -279.4
+episode: 1222  episode steps: 1000  reward: -388.9
+episode: 1223  episode steps: 1000  reward: 224.9
+episode: 1224  episode steps: 1000  reward: -363.6
+episode: 1225  episode steps: 1000  reward: 200.3
+episode: 1226  episode steps: 1000  reward: -174.2
+episode: 1227  episode steps: 1000  reward: -329.3
+episode: 1228  episode steps: 1000  reward: -314.5
+episode: 1229  episode steps: 1000  reward: -312.2
+------------------------------------------------------------
+Num steps: 1230000  reward: -184.3
+------------------------------------------------------------
+episode: 1230  episode steps: 1000  reward: -175.2
+episode: 1231  episode steps: 1000  reward: -208.2
+episode: 1232  episode steps: 1000  reward: -383.2
+episode: 1233  episode steps: 1000  reward: -435.5
+episode: 1234  episode steps: 1000  reward: -637.1
+episode: 1235  episode steps: 1000  reward: -565.0
+episode: 1236  episode steps: 1000  reward: -637.4
+episode: 1237  episode steps: 1000  reward: -412.5
+episode: 1238  episode steps: 1000  reward: -470.9
+episode: 1239  episode steps: 1000  reward: -605.6
+------------------------------------------------------------
+Num steps: 1240000  reward: -421.8
+------------------------------------------------------------
+episode: 1240  episode steps: 1000  reward: -447.0
+episode: 1241  episode steps: 1000  reward: -249.6
+episode: 1242  episode steps: 1000  reward: -593.9
+episode: 1243  episode steps: 1000  reward: -285.0
+episode: 1244  episode steps: 1000  reward: -349.6
+episode: 1245  episode steps: 1000  reward: -184.3
+episode: 1246  episode steps: 1000  reward: -335.3
+episode: 1247  episode steps: 1000  reward: -194.6
+episode: 1248  episode steps: 1000  reward: -22.9
+episode: 1249  episode steps: 1000  reward: -125.1
+------------------------------------------------------------
+Num steps: 1250000  reward: -278.2
+------------------------------------------------------------
+episode: 1250  episode steps: 1000  reward: -212.5
+episode: 1251  episode steps: 1000  reward: -135.9
+episode: 1252  episode steps: 1000  reward: -271.4
+episode: 1253  episode steps: 1000  reward: 98.9 
+episode: 1254  episode steps: 1000  reward: -150.4
+episode: 1255  episode steps: 1000  reward: -587.1
+episode: 1256  episode steps: 1000  reward: -335.4
+episode: 1257  episode steps: 1000  reward: -187.4
+episode: 1258  episode steps: 1000  reward: -138.5
+episode: 1259  episode steps: 1000  reward: 360.4
+------------------------------------------------------------
+Num steps: 1260000  reward: 274.3
+------------------------------------------------------------
+episode: 1260  episode steps: 1000  reward: 104.0
+episode: 1261  episode steps: 1000  reward: -77.6
+episode: 1262  episode steps: 1000  reward: 869.5
+episode: 1263  episode steps: 1000  reward: 577.3
+episode: 1264  episode steps: 1000  reward: 978.7
+episode: 1265  episode steps: 1000  reward: 1012.5
+episode: 1266  episode steps: 1000  reward: 3605.3
+episode: 1267  episode steps: 1000  reward: 1813.6
+episode: 1268  episode steps: 1000  reward: 1646.2
+episode: 1269  episode steps: 1000  reward: 4255.3
+------------------------------------------------------------
+Num steps: 1270000  reward: 2472.0
+------------------------------------------------------------
+episode: 1270  episode steps: 1000  reward: -316.5
+episode: 1271  episode steps: 1000  reward: 962.2
+episode: 1272  episode steps: 1000  reward: 1215.5
+episode: 1273  episode steps: 1000  reward: 5662.9
+episode: 1274  episode steps: 1000  reward: 3371.6
+episode: 1275  episode steps: 1000  reward: 3329.6
+episode: 1276  episode steps: 1000  reward: 5665.3
+episode: 1277  episode steps: 1000  reward: 8266.3
+episode: 1278  episode steps: 1000  reward: 1582.1
+episode: 1279  episode steps: 1000  reward: 3532.8
+------------------------------------------------------------
+Num steps: 1280000  reward: 8239.5
+------------------------------------------------------------
+episode: 1280  episode steps: 1000  reward: 9875.6
+episode: 1281  episode steps: 1000  reward: 9304.0
+episode: 1282  episode steps: 1000  reward: 9578.7
+episode: 1283  episode steps: 1000  reward: 9395.7
+episode: 1284  episode steps: 1000  reward: 9171.9
+episode: 1285  episode steps: 1000  reward: 6995.0
+episode: 1286  episode steps: 1000  reward: 10297.2
+episode: 1287  episode steps: 1000  reward: 10341.4
+episode: 1288  episode steps: 1000  reward: 10357.7
+episode: 1289  episode steps: 1000  reward: 10603.7
+------------------------------------------------------------
+Num steps: 1290000  reward: 10716.5
+------------------------------------------------------------
+episode: 1290  episode steps: 1000  reward: 10405.6
+episode: 1291  episode steps: 1000  reward: 9980.6
+episode: 1292  episode steps: 1000  reward: 10422.3
+episode: 1293  episode steps: 1000  reward: 10282.3
+episode: 1294  episode steps: 1000  reward: 10011.2
+episode: 1295  episode steps: 1000  reward: 10532.3
+episode: 1296  episode steps: 1000  reward: 10813.7
+episode: 1297  episode steps: 1000  reward: 10598.5
+episode: 1298  episode steps: 1000  reward: 10926.2
+episode: 1299  episode steps: 1000  reward: 10674.6
+------------------------------------------------------------
+Num steps: 1300000  reward: 10783.9
+------------------------------------------------------------
+episode: 1300  episode steps: 1000  reward: 10408.7
+episode: 1301  episode steps: 1000  reward: 10349.9
+episode: 1302  episode steps: 1000  reward: 11029.4
+episode: 1303  episode steps: 1000  reward: 10735.5
+episode: 1304  episode steps: 1000  reward: 10724.0
+episode: 1305  episode steps: 1000  reward: 11179.4
+episode: 1306  episode steps: 1000  reward: 10092.2
+episode: 1307  episode steps: 1000  reward: 10956.9
+episode: 1308  episode steps: 1000  reward: 10712.6
+episode: 1309  episode steps: 1000  reward: 10818.7
+------------------------------------------------------------
+Num steps: 1310000  reward: 11504.9
+------------------------------------------------------------
+episode: 1310  episode steps: 1000  reward: 10829.8
+episode: 1311  episode steps: 1000  reward: 10833.4
+episode: 1312  episode steps: 1000  reward: 11089.8
+episode: 1313  episode steps: 1000  reward: 11019.2
+episode: 1314  episode steps: 1000  reward: 11104.8
+episode: 1315  episode steps: 1000  reward: 11073.1
+episode: 1316  episode steps: 1000  reward: 7636.9
+episode: 1317  episode steps: 1000  reward: 10496.9
+episode: 1318  episode steps: 1000  reward: 11441.7
+episode: 1319  episode steps: 1000  reward: 11067.4
+------------------------------------------------------------
+Num steps: 1320000  reward: 11612.7
+------------------------------------------------------------
+episode: 1320  episode steps: 1000  reward: 11398.5
+episode: 1321  episode steps: 1000  reward: 11401.2
+episode: 1322  episode steps: 1000  reward: 10878.6
+episode: 1323  episode steps: 1000  reward: 11251.9
+episode: 1324  episode steps: 1000  reward: 11326.4
+episode: 1325  episode steps: 1000  reward: 11215.3
+episode: 1326  episode steps: 1000  reward: 11311.5
+episode: 1327  episode steps: 1000  reward: 10938.2
+episode: 1328  episode steps: 1000  reward: 11103.6
+episode: 1329  episode steps: 1000  reward: 11157.3
+------------------------------------------------------------
+Num steps: 1330000  reward: 11868.5
+------------------------------------------------------------
+episode: 1330  episode steps: 1000  reward: 11236.4
+episode: 1331  episode steps: 1000  reward: 11257.5
+episode: 1332  episode steps: 1000  reward: 11658.3
+episode: 1333  episode steps: 1000  reward: 11251.7
+episode: 1334  episode steps: 1000  reward: 11118.9
+episode: 1335  episode steps: 1000  reward: 11221.7
+episode: 1336  episode steps: 1000  reward: 11351.1
+episode: 1337  episode steps: 1000  reward: 11146.0
+episode: 1338  episode steps: 1000  reward: 11063.8
+episode: 1339  episode steps: 1000  reward: 11435.0
+------------------------------------------------------------
+Num steps: 1340000  reward: 11809.5
+------------------------------------------------------------
+episode: 1340  episode steps: 1000  reward: 10498.2
+episode: 1341  episode steps: 1000  reward: 11182.3
+episode: 1342  episode steps: 1000  reward: 11201.6
+episode: 1343  episode steps: 1000  reward: 11396.7
+episode: 1344  episode steps: 1000  reward: 11078.7
+episode: 1345  episode steps: 1000  reward: 11564.2
+episode: 1346  episode steps: 1000  reward: 11159.2
+episode: 1347  episode steps: 1000  reward: 10977.5
+episode: 1348  episode steps: 1000  reward: 11443.5
+episode: 1349  episode steps: 1000  reward: 10989.5
+------------------------------------------------------------
+Num steps: 1350000  reward: 11872.7
+------------------------------------------------------------
+episode: 1350  episode steps: 1000  reward: 11670.6
+episode: 1351  episode steps: 1000  reward: 11023.0
+episode: 1352  episode steps: 1000  reward: 11157.3
+episode: 1353  episode steps: 1000  reward: 11478.0
+episode: 1354  episode steps: 1000  reward: 11103.4
+episode: 1355  episode steps: 1000  reward: 11416.2
+episode: 1356  episode steps: 1000  reward: 11383.3
+episode: 1357  episode steps: 1000  reward: 11646.5
+episode: 1358  episode steps: 1000  reward: 11534.3
+episode: 1359  episode steps: 1000  reward: 11419.9
+------------------------------------------------------------
+Num steps: 1360000  reward: 11925.9
+------------------------------------------------------------
+episode: 1360  episode steps: 1000  reward: 11571.9
+episode: 1361  episode steps: 1000  reward: 11788.7
+episode: 1362  episode steps: 1000  reward: 11524.8
+episode: 1363  episode steps: 1000  reward: 11103.9
+episode: 1364  episode steps: 1000  reward: 11648.1
+episode: 1365  episode steps: 1000  reward: 11320.6
+episode: 1366  episode steps: 1000  reward: 11345.0
+episode: 1367  episode steps: 1000  reward: 11496.8
+episode: 1368  episode steps: 1000  reward: 11627.8
+episode: 1369  episode steps: 1000  reward: 11454.0
+------------------------------------------------------------
+Num steps: 1370000  reward: 11903.0
+------------------------------------------------------------
+episode: 1370  episode steps: 1000  reward: 11343.0
+episode: 1371  episode steps: 1000  reward: 11512.6
+episode: 1372  episode steps: 1000  reward: 11567.0
+episode: 1373  episode steps: 1000  reward: 11761.6
+episode: 1374  episode steps: 1000  reward: 11572.5
+episode: 1375  episode steps: 1000  reward: 8895.6
+episode: 1376  episode steps: 1000  reward: 11472.3
+episode: 1377  episode steps: 1000  reward: 11187.8
+episode: 1378  episode steps: 1000  reward: 11437.5
+episode: 1379  episode steps: 1000  reward: 11508.7
+------------------------------------------------------------
+Num steps: 1380000  reward: 12061.1
+------------------------------------------------------------
+episode: 1380  episode steps: 1000  reward: 11416.2
+episode: 1381  episode steps: 1000  reward: 11875.4
+episode: 1382  episode steps: 1000  reward: 11484.1
+episode: 1383  episode steps: 1000  reward: 11869.3
+episode: 1384  episode steps: 1000  reward: 11232.7
+episode: 1385  episode steps: 1000  reward: 11766.1
+episode: 1386  episode steps: 1000  reward: 11621.9
+episode: 1387  episode steps: 1000  reward: 11902.4
+episode: 1388  episode steps: 1000  reward: 11672.9
+episode: 1389  episode steps: 1000  reward: 11660.7
+------------------------------------------------------------
+Num steps: 1390000  reward: 11862.5
+------------------------------------------------------------
+episode: 1390  episode steps: 1000  reward: 11556.7
+episode: 1391  episode steps: 1000  reward: 11807.6
+episode: 1392  episode steps: 1000  reward: 11558.4
+episode: 1393  episode steps: 1000  reward: 11237.6
+episode: 1394  episode steps: 1000  reward: 11699.1
+episode: 1395  episode steps: 1000  reward: 11993.2
+episode: 1396  episode steps: 1000  reward: 11335.2
+episode: 1397  episode steps: 1000  reward: 11784.7
+episode: 1398  episode steps: 1000  reward: 11966.2
+episode: 1399  episode steps: 1000  reward: 11908.9
+------------------------------------------------------------
+Num steps: 1400000  reward: 12241.6
+------------------------------------------------------------
+episode: 1400  episode steps: 1000  reward: 11716.9
+episode: 1401  episode steps: 1000  reward: 11875.4
+episode: 1402  episode steps: 1000  reward: 11318.0
+episode: 1403  episode steps: 1000  reward: 11629.2
+episode: 1404  episode steps: 1000  reward: 11393.4
+episode: 1405  episode steps: 1000  reward: 11930.4
+episode: 1406  episode steps: 1000  reward: 11585.1
+episode: 1407  episode steps: 1000  reward: 11536.8
+episode: 1408  episode steps: 1000  reward: 11640.3
+episode: 1409  episode steps: 1000  reward: 11759.6
+------------------------------------------------------------
+Num steps: 1410000  reward: 12227.4
+------------------------------------------------------------
+episode: 1410  episode steps: 1000  reward: 11579.7
+episode: 1411  episode steps: 1000  reward: 11512.9
+episode: 1412  episode steps: 1000  reward: 11902.2
+episode: 1413  episode steps: 1000  reward: 11725.5
+episode: 1414  episode steps: 1000  reward: 11580.9
+episode: 1415  episode steps: 1000  reward: 11771.4
+episode: 1416  episode steps: 1000  reward: 11711.5
+episode: 1417  episode steps: 1000  reward: 11326.2
+episode: 1418  episode steps: 1000  reward: 11796.1
+episode: 1419  episode steps: 1000  reward: 12031.0
+------------------------------------------------------------
+Num steps: 1420000  reward: 12249.9
+------------------------------------------------------------
+episode: 1420  episode steps: 1000  reward: 11846.8
+episode: 1421  episode steps: 1000  reward: 11830.6
+episode: 1422  episode steps: 1000  reward: 11715.6
+episode: 1423  episode steps: 1000  reward: 12112.3
+episode: 1424  episode steps: 1000  reward: 11723.2
+episode: 1425  episode steps: 1000  reward: 11843.8
+episode: 1426  episode steps: 1000  reward: 11836.4
+episode: 1427  episode steps: 1000  reward: 11789.4
+episode: 1428  episode steps: 1000  reward: 11907.6
+episode: 1429  episode steps: 1000  reward: 12074.4
+------------------------------------------------------------
+Num steps: 1430000  reward: 12244.2
+------------------------------------------------------------
+episode: 1430  episode steps: 1000  reward: 11912.9
+episode: 1431  episode steps: 1000  reward: 11708.2
+episode: 1432  episode steps: 1000  reward: 11613.4
+episode: 1433  episode steps: 1000  reward: 11594.0
+episode: 1434  episode steps: 1000  reward: 11855.3
+episode: 1435  episode steps: 1000  reward: 11925.4
+episode: 1436  episode steps: 1000  reward: 11298.6
+episode: 1437  episode steps: 1000  reward: 11679.1
+episode: 1438  episode steps: 1000  reward: 11822.7
+episode: 1439  episode steps: 1000  reward: 12217.5
+------------------------------------------------------------
+Num steps: 1440000  reward: 12208.7
+------------------------------------------------------------
+episode: 1440  episode steps: 1000  reward: 11834.1
+episode: 1441  episode steps: 1000  reward: 11874.0
+episode: 1442  episode steps: 1000  reward: 12078.4
+episode: 1443  episode steps: 1000  reward: 11801.9
+episode: 1444  episode steps: 1000  reward: 12058.7
+episode: 1445  episode steps: 1000  reward: 11868.4
+episode: 1446  episode steps: 1000  reward: 11602.6
+episode: 1447  episode steps: 1000  reward: 11777.3
+episode: 1448  episode steps: 1000  reward: 11747.4
+episode: 1449  episode steps: 1000  reward: 11718.0
+------------------------------------------------------------
+Num steps: 1450000  reward: 12473.5
+------------------------------------------------------------
+episode: 1450  episode steps: 1000  reward: 11980.7
+episode: 1451  episode steps: 1000  reward: 11879.2
+episode: 1452  episode steps: 1000  reward: 11600.2
+episode: 1453  episode steps: 1000  reward: 11952.1
+episode: 1454  episode steps: 1000  reward: 11723.8
+episode: 1455  episode steps: 1000  reward: 11976.8
+episode: 1456  episode steps: 1000  reward: 12081.2
+episode: 1457  episode steps: 1000  reward: 11863.6
+episode: 1458  episode steps: 1000  reward: 12009.3
+episode: 1459  episode steps: 1000  reward: 12231.9
+------------------------------------------------------------
+Num steps: 1460000  reward: 12551.6
+------------------------------------------------------------
+episode: 1460  episode steps: 1000  reward: 12098.0
+episode: 1461  episode steps: 1000  reward: 12053.8
+episode: 1462  episode steps: 1000  reward: 12006.0
+episode: 1463  episode steps: 1000  reward: 12076.3
+episode: 1464  episode steps: 1000  reward: 12070.6
+episode: 1465  episode steps: 1000  reward: 11835.7
+episode: 1466  episode steps: 1000  reward: 12164.5
+episode: 1467  episode steps: 1000  reward: 11899.4
+episode: 1468  episode steps: 1000  reward: 11918.6
+episode: 1469  episode steps: 1000  reward: 12282.3
+------------------------------------------------------------
+Num steps: 1470000  reward: 12485.2
+------------------------------------------------------------
+episode: 1470  episode steps: 1000  reward: 11808.3
+episode: 1471  episode steps: 1000  reward: 12173.4
+episode: 1472  episode steps: 1000  reward: 12318.9
+episode: 1473  episode steps: 1000  reward: 12222.8
+episode: 1474  episode steps: 1000  reward: 12102.5
+episode: 1475  episode steps: 1000  reward: 12199.9
+episode: 1476  episode steps: 1000  reward: 12083.8
+episode: 1477  episode steps: 1000  reward: 12093.4
+episode: 1478  episode steps: 1000  reward: 12161.2
+episode: 1479  episode steps: 1000  reward: 12149.1
+------------------------------------------------------------
+Num steps: 1480000  reward: 12497.1
+------------------------------------------------------------
+episode: 1480  episode steps: 1000  reward: 12037.7
+episode: 1481  episode steps: 1000  reward: 12170.0
+episode: 1482  episode steps: 1000  reward: 12224.8
+episode: 1483  episode steps: 1000  reward: 12050.8
+episode: 1484  episode steps: 1000  reward: 11577.9
+episode: 1485  episode steps: 1000  reward: 12369.2
+episode: 1486  episode steps: 1000  reward: 12238.4
+episode: 1487  episode steps: 1000  reward: 12237.0
+episode: 1488  episode steps: 1000  reward: 12179.9
+episode: 1489  episode steps: 1000  reward: 11964.6
+------------------------------------------------------------
+Num steps: 1490000  reward: 12573.4
+------------------------------------------------------------
+episode: 1490  episode steps: 1000  reward: 12077.1
+episode: 1491  episode steps: 1000  reward: 12119.6
+episode: 1492  episode steps: 1000  reward: 12301.9
+episode: 1493  episode steps: 1000  reward: 12245.4
+episode: 1494  episode steps: 1000  reward: 12053.8
+episode: 1495  episode steps: 1000  reward: 12260.4
+episode: 1496  episode steps: 1000  reward: 11721.1
+episode: 1497  episode steps: 1000  reward: 12123.0
+episode: 1498  episode steps: 1000  reward: 12362.3
+episode: 1499  episode steps: 1000  reward: 12026.9
+------------------------------------------------------------
+Num steps: 1500000  reward: 12692.7
+------------------------------------------------------------
+episode: 1500  episode steps: 1000  reward: 12255.7
+episode: 1501  episode steps: 1000  reward: 12026.2
+episode: 1502  episode steps: 1000  reward: 12054.1
+episode: 1503  episode steps: 1000  reward: 12507.3
+episode: 1504  episode steps: 1000  reward: 12407.8
+episode: 1505  episode steps: 1000  reward: 12060.8
+episode: 1506  episode steps: 1000  reward: 12346.8
+episode: 1507  episode steps: 1000  reward: 12172.7
+episode: 1508  episode steps: 1000  reward: 12399.5
+episode: 1509  episode steps: 1000  reward: 12332.4
+------------------------------------------------------------
+Num steps: 1510000  reward: 12715.7
+------------------------------------------------------------
+episode: 1510  episode steps: 1000  reward: 12185.9
+episode: 1511  episode steps: 1000  reward: 12385.6
+episode: 1512  episode steps: 1000  reward: 12526.2
+episode: 1513  episode steps: 1000  reward: 12154.8
+episode: 1514  episode steps: 1000  reward: 12150.1
+episode: 1515  episode steps: 1000  reward: 12338.1
+episode: 1516  episode steps: 1000  reward: 12321.0
+episode: 1517  episode steps: 1000  reward: 12181.2
+episode: 1518  episode steps: 1000  reward: 12192.3
+episode: 1519  episode steps: 1000  reward: 12483.6
+------------------------------------------------------------
+Num steps: 1520000  reward: 12891.6
+------------------------------------------------------------
+episode: 1520  episode steps: 1000  reward: 12538.6
+episode: 1521  episode steps: 1000  reward: 12121.1
+episode: 1522  episode steps: 1000  reward: 12511.1
+episode: 1523  episode steps: 1000  reward: 12390.0
+episode: 1524  episode steps: 1000  reward: 12226.5
+episode: 1525  episode steps: 1000  reward: 12282.7
+episode: 1526  episode steps: 1000  reward: 12275.8
+episode: 1527  episode steps: 1000  reward: 12625.1
+episode: 1528  episode steps: 1000  reward: 12355.0
+episode: 1529  episode steps: 1000  reward: 12316.7
+------------------------------------------------------------
+Num steps: 1530000  reward: 12802.0
+------------------------------------------------------------
+episode: 1530  episode steps: 1000  reward: 12010.0
+episode: 1531  episode steps: 1000  reward: 12679.2
+episode: 1532  episode steps: 1000  reward: 12737.9
+episode: 1533  episode steps: 1000  reward: 12090.0
+episode: 1534  episode steps: 1000  reward: 12242.2
+episode: 1535  episode steps: 1000  reward: 12426.9
+episode: 1536  episode steps: 1000  reward: 12357.0
+episode: 1537  episode steps: 1000  reward: 12073.0
+episode: 1538  episode steps: 1000  reward: 11722.2
+episode: 1539  episode steps: 1000  reward: 12443.5
+------------------------------------------------------------
+Num steps: 1540000  reward: 12685.6
+------------------------------------------------------------
+episode: 1540  episode steps: 1000  reward: 12364.8
+episode: 1541  episode steps: 1000  reward: 12849.4
+episode: 1542  episode steps: 1000  reward: 12478.1
+episode: 1543  episode steps: 1000  reward: 12550.9
+episode: 1544  episode steps: 1000  reward: 12591.1
+episode: 1545  episode steps: 1000  reward: 12443.2
+episode: 1546  episode steps: 1000  reward: 12202.4
+episode: 1547  episode steps: 1000  reward: 12277.1
+episode: 1548  episode steps: 1000  reward: 12369.9
+episode: 1549  episode steps: 1000  reward: 12728.2
+------------------------------------------------------------
+Num steps: 1550000  reward: 13092.4
+------------------------------------------------------------
+episode: 1550  episode steps: 1000  reward: 12432.4
+episode: 1551  episode steps: 1000  reward: 12352.8
+episode: 1552  episode steps: 1000  reward: 12525.4
+episode: 1553  episode steps: 1000  reward: 12236.8
+episode: 1554  episode steps: 1000  reward: 12504.2
+episode: 1555  episode steps: 1000  reward: 12222.5
+episode: 1556  episode steps: 1000  reward: 11863.0
+episode: 1557  episode steps: 1000  reward: 12288.6
+episode: 1558  episode steps: 1000  reward: 12614.7
+episode: 1559  episode steps: 1000  reward: 12543.5
+------------------------------------------------------------
+Num steps: 1560000  reward: 12893.4
+------------------------------------------------------------
+episode: 1560  episode steps: 1000  reward: 12341.0
+episode: 1561  episode steps: 1000  reward: 11404.3
+episode: 1562  episode steps: 1000  reward: 12645.4
+episode: 1563  episode steps: 1000  reward: 12260.4
+episode: 1564  episode steps: 1000  reward: 12299.5
+episode: 1565  episode steps: 1000  reward: 12509.8
+episode: 1566  episode steps: 1000  reward: 12089.7
+episode: 1567  episode steps: 1000  reward: 12507.8
+episode: 1568  episode steps: 1000  reward: 12636.4
+episode: 1569  episode steps: 1000  reward: 12652.3
+------------------------------------------------------------
+Num steps: 1570000  reward: 12760.1
+------------------------------------------------------------
+episode: 1570  episode steps: 1000  reward: 11963.9
+episode: 1571  episode steps: 1000  reward: 12545.5
+episode: 1572  episode steps: 1000  reward: 12358.4
+episode: 1573  episode steps: 1000  reward: 12547.4
+episode: 1574  episode steps: 1000  reward: 12401.2
+episode: 1575  episode steps: 1000  reward: 12598.6
+episode: 1576  episode steps: 1000  reward: 12481.0
+episode: 1577  episode steps: 1000  reward: 11951.2
+episode: 1578  episode steps: 1000  reward: 12273.8
+episode: 1579  episode steps: 1000  reward: 12388.1
+------------------------------------------------------------
+Num steps: 1580000  reward: 13307.4
+------------------------------------------------------------
+episode: 1580  episode steps: 1000  reward: 12533.0
+episode: 1581  episode steps: 1000  reward: 12690.3
+episode: 1582  episode steps: 1000  reward: 12413.5
+episode: 1583  episode steps: 1000  reward: 12283.2
+episode: 1584  episode steps: 1000  reward: 12575.3
+episode: 1585  episode steps: 1000  reward: 12468.7
+episode: 1586  episode steps: 1000  reward: 12526.8
+episode: 1587  episode steps: 1000  reward: 12746.2
+episode: 1588  episode steps: 1000  reward: 12735.9
+episode: 1589  episode steps: 1000  reward: 12729.7
+------------------------------------------------------------
+Num steps: 1590000  reward: 13107.4
+------------------------------------------------------------
+episode: 1590  episode steps: 1000  reward: 12705.8
+episode: 1591  episode steps: 1000  reward: 12551.0
+episode: 1592  episode steps: 1000  reward: 12444.2
+episode: 1593  episode steps: 1000  reward: 12806.7
+episode: 1594  episode steps: 1000  reward: 12508.3
+episode: 1595  episode steps: 1000  reward: 12632.0
+episode: 1596  episode steps: 1000  reward: 12831.9
+episode: 1597  episode steps: 1000  reward: 12712.5
+episode: 1598  episode steps: 1000  reward: 12723.5
+episode: 1599  episode steps: 1000  reward: 12745.3
+------------------------------------------------------------
+Num steps: 1600000  reward: 13131.6
+------------------------------------------------------------
+episode: 1600  episode steps: 1000  reward: 12690.9
+episode: 1601  episode steps: 1000  reward: 12580.3
+episode: 1602  episode steps: 1000  reward: 12706.7
+episode: 1603  episode steps: 1000  reward: 12706.2
+episode: 1604  episode steps: 1000  reward: 12721.2
+episode: 1605  episode steps: 1000  reward: 12801.0
+episode: 1606  episode steps: 1000  reward: 12239.1
+episode: 1607  episode steps: 1000  reward: 12664.9
+episode: 1608  episode steps: 1000  reward: 12827.1
+episode: 1609  episode steps: 1000  reward: 13069.6
+------------------------------------------------------------
+Num steps: 1610000  reward: 13042.0
+------------------------------------------------------------
+episode: 1610  episode steps: 1000  reward: 12696.6
+episode: 1611  episode steps: 1000  reward: 12875.7
+episode: 1612  episode steps: 1000  reward: 12701.4
+episode: 1613  episode steps: 1000  reward: 12972.5
+episode: 1614  episode steps: 1000  reward: 12805.7
+episode: 1615  episode steps: 1000  reward: 12932.8
+episode: 1616  episode steps: 1000  reward: 12843.1
+episode: 1617  episode steps: 1000  reward: 12415.6
+episode: 1618  episode steps: 1000  reward: 12297.0
+episode: 1619  episode steps: 1000  reward: 12708.7
+------------------------------------------------------------
+Num steps: 1620000  reward: 13211.4
+------------------------------------------------------------
+episode: 1620  episode steps: 1000  reward: 12852.4
+episode: 1621  episode steps: 1000  reward: 12716.5
+episode: 1622  episode steps: 1000  reward: 12801.3
+episode: 1623  episode steps: 1000  reward: 12897.1
+episode: 1624  episode steps: 1000  reward: 12922.2
+episode: 1625  episode steps: 1000  reward: 12574.3
+episode: 1626  episode steps: 1000  reward: 12575.9
+episode: 1627  episode steps: 1000  reward: 12799.3
+episode: 1628  episode steps: 1000  reward: 12675.4
+episode: 1629  episode steps: 1000  reward: 12588.1
+------------------------------------------------------------
+Num steps: 1630000  reward: 13293.3
+------------------------------------------------------------
+episode: 1630  episode steps: 1000  reward: 12957.2
+episode: 1631  episode steps: 1000  reward: 12527.4
+episode: 1632  episode steps: 1000  reward: 13036.2
+episode: 1633  episode steps: 1000  reward: 12843.6
+episode: 1634  episode steps: 1000  reward: 12612.9
+episode: 1635  episode steps: 1000  reward: 1771.0
+episode: 1636  episode steps: 1000  reward: 12672.4
+episode: 1637  episode steps: 1000  reward: 12937.3
+episode: 1638  episode steps: 1000  reward: 13163.3
+episode: 1639  episode steps: 1000  reward: 12719.6
+------------------------------------------------------------
+Num steps: 1640000  reward: 13210.6
+------------------------------------------------------------
+episode: 1640  episode steps: 1000  reward: 12718.2
+episode: 1641  episode steps: 1000  reward: 12979.6
+episode: 1642  episode steps: 1000  reward: 12433.2
+episode: 1643  episode steps: 1000  reward: 12979.5
+episode: 1644  episode steps: 1000  reward: 12840.3
+episode: 1645  episode steps: 1000  reward: 12828.8
+episode: 1646  episode steps: 1000  reward: 13107.4
+episode: 1647  episode steps: 1000  reward: 12977.5
+episode: 1648  episode steps: 1000  reward: 13302.3
+episode: 1649  episode steps: 1000  reward: 12730.7
