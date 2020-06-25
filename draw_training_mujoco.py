@@ -57,6 +57,7 @@ def draw_env(name, i):
     f = open("mujoco/results/"+name+"_ppo.json", "r")
     loadDict = json.load(f)
     rewards, stds = loadDict["rewards"], loadDict["stds"]
+    rewards = rewards[:len(steps)]
     r1 = list(map(lambda x: x[0]-x[1], zip(rewards, stds)))
     r2 = list(map(lambda x: x[0]+x[1], zip(rewards, stds)))
     plt.fill_between(steps, r1, r2, alpha=0.35)
