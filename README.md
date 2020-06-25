@@ -52,7 +52,7 @@ The results are presented as follows. Note that due to the shortage of time and 
 | Environment Name | Average Testing Score | Training Steps |
 | :--------------: | :-------------------: | :------------: |
 |    Hopper-v2     |      4132.8±30.9      |       3M       |
-|   Humanoid-v2    |     6422.1±658.6      |      10M       |
+|   Humanoid-v2    |      7304.6±24.7      |      10M       |
 |  HalfCheetah-v2  |     15875.6±36.4      |       3M       |
 |      Ant-v2      |      6978.2±75.1      |       3M       |
 
