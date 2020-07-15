@@ -37,7 +37,7 @@ For Atari Games, I chose DQN with some optimization, such as Losing-life-stoppin
 
 ## Results
 
-The results are presented as follows. Note that due to the shortage of time and computing resource, some environment should have reached better results. For example, after 3M steps, Humanoid-v2 model can still improve its performance if we continue to train it. But time is not enough for me to do that, so I stopped it at the point of 3M steps.
+The results are presented as follows. Note that due to the shortage of time and computing resource, some environment should have reached better results. For example, after 3M steps, Humanoid-v2 model can still improve its performance if we continue to train it. But time is not enough for me to do that, so I stopped it at the point of 3M steps. (Update: Now I trained humanoid for 10M steps and it got a better result!)
 
 ### Atari Games
 
