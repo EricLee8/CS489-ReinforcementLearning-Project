@@ -11,7 +11,7 @@ To install the dependencies, run:
 
 `$ pip install -r requirements.txt` 
 
-Note that gym[atari], tb-nightly future and mujoco_py can not be install by running the above code, for the first two, run:  
+Note that gym[atari], tb-nightly future and mujoco_py can not be installed by running the above code, for the first two, run:  
 
 `$ pip install gym[atari]`
 
@@ -29,7 +29,7 @@ I also provide trained models to do the demo task or testing task, you can do th
 
 `$ python test.py --env_name BreakoutNoFrameskip-v4 --num_episode 10`
 
-Note that when num_episode=1, we will do rendering during test. Make sure you have graphical interface to run this.
+Note that when num_episode=1, we will do rendering during test. Make sure you have a graphical interface to run this.
 
 ## Methods
 
